@@ -1,46 +1,7 @@
 {
-  "generated_at": "2025-12-15T23:22:58.003665+08:00",
-  "total_titles_processed": 1864,
+  "generated_at": "2025-12-16T00:27:42.736164+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "传联发科拿下两代谷歌TPU定制大单",
-          "url": "https://flash.jin10.com/detail/20251215105959893800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "清华教授建议放开禁限摩",
-          "url": "https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E6%95%99%E6%8E%88%E5%BB%BA%E8%AE%AE%E6%94%BE%E5%BC%80%E7%A6%81%E9%99%90%E6%91%A9",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            8,
-            10,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 10时11分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

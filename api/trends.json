@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T11:18:52.964593+08:00",
-  "total_titles_processed": 981,
+  "generated_at": "2025-12-17T12:32:08.188454+08:00",
+  "total_titles_processed": 1095,
   "failed_sources": [],
   "trends": [
     {
@@ -59,7 +59,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         },
@@ -81,7 +81,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         },
@@ -103,9 +103,37 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "東京大学 化学専攻 教授",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "麻省理工学院教授在家遭枪击身亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2%E6%95%99%E6%8E%88%E5%9C%A8%E5%AE%B6%E9%81%AD%E6%9E%AA%E5%87%BB%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 12时32分]"
+        },
+        {
+          "title": "高中生，为什么现在很少见老师们教授数学思维了?",
+          "url": "https://www.zhihu.com/question/1983097723067581491",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         }
       ]
     },
@@ -123,23 +151,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "高中生，为什么现在很少见老师们教授数学思维了?",
-          "url": "https://www.zhihu.com/question/1983097723067581491",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
         }
       ]
     }

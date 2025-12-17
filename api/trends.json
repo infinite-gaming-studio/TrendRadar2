@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T15:21:53.889122+08:00",
-  "total_titles_processed": 1372,
+  "generated_at": "2025-12-17T16:27:06.518652+08:00",
+  "total_titles_processed": 1496,
   "failed_sources": [],
   "trends": [
     {
@@ -114,6 +114,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "清华教授建议 9 年义务教育再加 2 年，六年小学加五年的初高中，如何看待？延长学制对学生价值大吗？",
+          "url": "https://www.zhihu.com/question/1984325780323451552",
+          "source": "知乎",
+          "ranks": [
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时21分 ~ 16时27分]"
+        },
+        {
           "title": "麻省理工学院教授在家遭枪击身亡",
           "url": "https://s.weibo.com/weibo?q=%23%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2%E6%95%99%E6%8E%88%E5%9C%A8%E5%AE%B6%E9%81%AD%E6%9E%AA%E5%87%BB%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -134,17 +146,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
-        },
-        {
-          "title": "清华教授建议 9 年义务教育再加 2 年，六年小学加五年的初高中，如何看待？延长学制对学生价值大吗？",
-          "url": "https://www.zhihu.com/question/1984325780323451552",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
         }
       ]
     },

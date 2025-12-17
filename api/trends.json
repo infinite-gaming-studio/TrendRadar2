@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T18:22:24.002277+08:00",
-  "total_titles_processed": 1674,
+  "generated_at": "2025-12-17T19:18:25.579444+08:00",
+  "total_titles_processed": 1771,
   "failed_sources": [],
   "trends": [
     {
@@ -133,11 +133,12 @@
             20,
             14,
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时21分 ~ 18时22分]"
+          "appearance_count": 6,
+          "time_info": "[15时21分 ~ 19时18分]"
         },
         {
           "title": "麻省理工学院教授在家遭枪击身亡",

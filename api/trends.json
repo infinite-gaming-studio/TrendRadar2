@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T21:35:36.353100+08:00",
-  "total_titles_processed": 1889,
+  "generated_at": "2025-12-18T22:20:57.709201+08:00",
+  "total_titles_processed": 1973,
   "failed_sources": [],
   "trends": [
     {
@@ -61,6 +61,17 @@
           "time_info": "[00时25分 ~ 01时22分]"
         },
         {
+          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
+          "url": "https://wallstreetcn.com/articles/3761592",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 22时20分]"
+        },
+        {
           "title": "谷歌发布 Gemini 3 Flash，相比上一代 2.5 Flash 有哪些提升？使用体验如何？",
           "url": "https://www.zhihu.com/question/1984788546771517931",
           "source": "知乎",
@@ -70,17 +81,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时29分 ~ 15时21分]"
-        },
-        {
-          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
-          "url": "https://wallstreetcn.com/articles/3761592",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 19时17分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌超4.6%撤离历史最高位，英伟达跌3.8%，谷歌A跌3.2%",
@@ -143,8 +143,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时29分 ~ 21时35分]"
+          "appearance_count": 9,
+          "time_info": "[14时29分 ~ 22时20分]"
         },
         {
           "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
@@ -270,11 +270,12 @@
           "url": "https://www.toutiao.com/trending/7585002975077174834/",
           "source": "今日头条",
           "ranks": [
-            16
+            16,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时20分]"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T00:26:23.544107+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-19T01:22:00.707775+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时22分]"
         },
         {
           "title": "OpenAI与美国高校密集合作，在AI教育赛道抢得头筹",
@@ -43,8 +43,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时22分]"
         }
       ]
     }

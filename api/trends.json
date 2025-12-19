@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T11:22:40.731505+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2025-12-19T12:32:40.986255+08:00",
+  "total_titles_processed": 1173,
   "failed_sources": [],
   "trends": [
     {
@@ -79,6 +79,18 @@
           "time_info": "[04时19分 ~ 05时16分]"
         },
         {
+          "title": "OpenAI最新估值或达8300亿美元 德国拟动用俄资产支持乌克兰 | 环球市场",
+          "url": "https://www.cls.cn/detail/2234101",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 12时32分]"
+        },
+        {
           "title": "美国密歇根州监管机构批准了公用事业公司DTE能源的一项申请，为甲骨文(ORCL.N)和OpenAI计划建设的大型数据中心项目供电。",
           "url": "https://flash.jin10.com/detail/20251219032029402800",
           "source": "金十数据",
@@ -99,17 +111,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
-        },
-        {
-          "title": "OpenAI最新估值或达8300亿美元 德国拟动用俄资产支持乌克兰 | 环球市场",
-          "url": "https://www.cls.cn/detail/2234101",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
         },
         {
           "title": "OpenAI可能会在本轮融资中获得高达8300亿美元估值，该公司希望融资至多1000亿美元。（华尔街日报）",
@@ -289,9 +290,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 12时32分]"
         }
       ]
     }

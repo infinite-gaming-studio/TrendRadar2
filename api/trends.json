@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T13:20:01.096605+08:00",
-  "total_titles_processed": 1255,
+  "generated_at": "2025-12-19T14:28:59.699577+08:00",
+  "total_titles_processed": 1334,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,19 @@
           "time_info": "06时18分"
         },
         {
+          "title": "OpenAI最新估值或达8300亿美元 德国拟动用俄资产支持乌克兰 | 环球市场",
+          "url": "https://www.cls.cn/detail/2234101",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 14时28分]"
+        },
+        {
           "title": "OpenAI的CEO Altman：今天推出GPT-5.2-Codex。",
           "url": "https://wallstreetcn.com/livenews/3023302",
           "source": "华尔街见闻-快讯",
@@ -53,19 +66,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时17分 ~ 04时19分]"
-        },
-        {
-          "title": "OpenAI最新估值或达8300亿美元 德国拟动用俄资产支持乌克兰 | 环球市场",
-          "url": "https://www.cls.cn/detail/2234101",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 13时20分]"
         },
         {
           "title": "OpenAI与美国能源部签署关于AI合作的谅解备忘录。",
@@ -293,8 +293,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 13时20分]"
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 14时28分]"
         }
       ]
     }

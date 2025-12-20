@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T15:16:58.289833+08:00",
-  "total_titles_processed": 1147,
+  "generated_at": "2025-12-20T16:24:37.558039+08:00",
+  "total_titles_processed": 1208,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             13,
             16,
             18,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时14分 ~ 15时16分]"
+          "appearance_count": 6,
+          "time_info": "[11时14分 ~ 16时24分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
@@ -58,11 +59,12 @@
           "ranks": [
             10,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时18分 ~ 15时16分]"
+          "appearance_count": 11,
+          "time_info": "[06时18分 ~ 16时24分]"
         },
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",

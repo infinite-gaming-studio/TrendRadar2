@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T16:24:37.558039+08:00",
-  "total_titles_processed": 1208,
+  "generated_at": "2025-12-20T17:18:26.474917+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
@@ -63,8 +63,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时18分 ~ 16时24分]"
+          "appearance_count": 12,
+          "time_info": "[06时18分 ~ 17时18分]"
         },
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",

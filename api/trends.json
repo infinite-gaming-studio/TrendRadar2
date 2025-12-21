@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T09:27:30.325775+08:00",
-  "total_titles_processed": 579,
+  "generated_at": "2025-12-21T11:28:20.102141+08:00",
+  "total_titles_processed": 696,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,25 @@
           "ranks": [
             7,
             6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 11时28分]"
+        },
+        {
+          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
+          "url": "https://wallstreetcn.com/articles/3761763",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 09时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 11时28分]"
         },
         {
           "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
@@ -28,23 +42,12 @@
             10,
             9,
             8,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 09时27分]"
-        },
-        {
-          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
-          "url": "https://wallstreetcn.com/articles/3761763",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 09时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 11时28分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -63,7 +66,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
@@ -75,12 +78,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时21分 ~ 04时18分]"
+        },
+        {
+          "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
+          "url": "https://wallstreetcn.com/articles/3761778",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         }
       ]
     },
     {
       "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "枪杀麻省理工教授的嫌犯：曾是物理天才，被流浪汉校友举报",
@@ -92,6 +106,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时20分 ~ 07时17分]"
+        },
+        {
+          "title": "大学教授“悼友文”为何感动全网",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E2%80%9C%E6%82%BC%E5%8F%8B%E6%96%87%E2%80%9D%E4%B8%BA%E4%BD%95%E6%84%9F%E5%8A%A8%E5%85%A8%E7%BD%91",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         }
       ]
     }

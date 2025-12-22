@@ -1,74 +1,8 @@
 {
-  "generated_at": "2025-12-22T23:20:30.156171+08:00",
-  "total_titles_processed": 1906,
+  "generated_at": "2025-12-23T00:23:05.621407+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "a16z年度重磅报告：OpenAI艰难守擂，谷歌火力全开，用户只选一个",
-          "url": "https://wallstreetcn.com/articles/3761798",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时20分 ~ 19时17分]"
-        },
-        {
-          "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
-          "url": "https://wallstreetcn.com/articles/3761792",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时40分 ~ 15时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 亿美元，公司进入「红色代码」紧急状态，透露哪些信息？",
-          "url": "https://www.zhihu.com/question/1985011347914774514",
-          "source": "知乎",
-          "ranks": [
-            3,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 09时25分]"
-        },
-        {
-          "title": "报道：OpenAI业务利润率至10月已提升至70%",
-          "url": "https://wallstreetcn.com/livenews/3024451",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            6,
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时24分 ~ 07时17分]"
-        }
-      ]
-    },
     {
       "keyword_group": "東京大学 化学専攻 教授",
       "match_count": 1,
@@ -78,15 +12,11 @@
           "url": "https://www.zhihu.com/question/1986025145593258892",
           "source": "知乎",
           "ranks": [
-            13,
-            5,
-            2,
-            3,
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时20分 ~ 23时20分]"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 00时23分]"
         }
       ]
     }

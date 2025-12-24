@@ -1,8 +1,25 @@
 {
-  "generated_at": "2025-12-25T06:18:31.736908+08:00",
-  "total_titles_processed": 543,
+  "generated_at": "2025-12-25T07:17:51.664785+08:00",
+  "total_titles_processed": 577,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Waymo拟为无人驾驶出租车接入Gemini AI助手",
+          "url": "https://wallstreetcn.com/livenews/3026375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 1,

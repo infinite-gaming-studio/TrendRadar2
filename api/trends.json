@@ -1,8 +1,36 @@
 {
-  "generated_at": "2025-12-26T20:37:07.041787+08:00",
-  "total_titles_processed": 1612,
+  "generated_at": "2025-12-26T21:32:07.452255+08:00",
+  "total_titles_processed": 1695,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "東京大学 化学専攻 教授",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "港大教授：若能维持10年和平，中美关系会有崭新面貌",
+          "url": "https://news.ifeng.com/c/8pOKBV0rSl9",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "人大外国教授为何给自己取名国强",
+          "url": "https://www.douyin.com/hot/2348561",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
@@ -49,23 +77,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "港大教授：若能维持10年和平，中美关系会有崭新面貌",
-          "url": "https://news.ifeng.com/c/8pOKBV0rSl9",
-          "source": "凤凰网",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 1,

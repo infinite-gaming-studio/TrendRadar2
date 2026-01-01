@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T05:17:54.037004+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2026-01-02T06:18:26.285673+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             12,
             17,
             19,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 05时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时18分]"
         },
         {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T02:26:51.479327+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2026-01-02T03:15:28.485252+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             20,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 03时15分]"
         },
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
@@ -27,11 +28,12 @@
           "ranks": [
             8,
             12,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 03时15分]"
         },
         {
           "title": "据The Information：OpenAI采取措施改进语音AI模型。",
@@ -40,11 +42,12 @@
           "ranks": [
             9,
             21,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 03时15分]"
         }
       ]
     }

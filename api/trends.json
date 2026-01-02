@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T18:19:57.209801+08:00",
-  "total_titles_processed": 1260,
+  "generated_at": "2026-01-02T19:17:23.226435+08:00",
+  "total_titles_processed": 1333,
   "failed_sources": [],
   "trends": [
     {
@@ -24,6 +24,18 @@
           "time_info": "[00时23分 ~ 06时18分]"
         },
         {
+          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
+          "url": "https://wallstreetcn.com/articles/3762439",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时25分 ~ 19时17分]"
+        },
+        {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
           "url": "https://flash.jin10.com/detail/20260101230819093800",
           "source": "金十数据",
@@ -36,18 +48,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时23分 ~ 03时15分]"
-        },
-        {
-          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
-          "url": "https://wallstreetcn.com/articles/3762439",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时25分 ~ 18时19分]"
         },
         {
           "title": "据The Information：OpenAI采取措施改进语音AI模型。",
@@ -69,11 +69,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 18时19分]"
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 19时17分]"
         }
       ]
     },

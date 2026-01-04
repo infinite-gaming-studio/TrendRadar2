@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-01-04T19:15:25.723668+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2026-01-04T20:35:45.179387+08:00",
+  "total_titles_processed": 1434,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "東京大学 化学専攻 教授",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "对话丨巴西法学教授：拉美看到了危险先例，马杜罗可能遭遇萨达姆的命运",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32310195",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "巴西法学教授：拉美看到了危险先例，马杜罗可能遭遇萨达姆的命运",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32310195",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
@@ -17,23 +45,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "巴西法学教授：拉美看到了危险先例，马杜罗可能遭遇萨达姆的命运",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32310195",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
         }
       ]
     }

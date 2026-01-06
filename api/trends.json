@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T11:27:59.321523+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2026-01-06T12:38:27.662292+08:00",
+  "total_titles_processed": 1110,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "url": "https://wallstreetcn.com/articles/3762605",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 12时38分]"
         },
         {
           "title": "OpenAI支持的公司推家务机器人 售价2万美元",

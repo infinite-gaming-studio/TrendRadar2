@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T18:22:09.656886+08:00",
-  "total_titles_processed": 1666,
+  "generated_at": "2026-01-08T19:19:34.847825+08:00",
+  "total_titles_processed": 1756,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时22分 ~ 18时22分]"
+          "appearance_count": 7,
+          "time_info": "[15时22分 ~ 19时19分]"
         },
         {
           "title": "时隔七年 谷歌市值重新超越苹果",
@@ -130,11 +130,12 @@
           "url": "https://www.douyin.com/hot/2359765",
           "source": "抖音",
           "ranks": [
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时26分"
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 19时19分]"
         },
         {
           "title": "【智谱上市，唐杰内部信要求全面回归基础模型研究】1月8日智谱上市当天，清华大学计算机系教授、智谱创立发起人兼首席科学家唐杰发布内部信，宣布很快将推出新一代模型 GLM-5。内部信还介绍了 2026 年智谱聚焦的三个技术方向，包括全新的模型架构设计，更通用的 RL（强化学习）范式以及对模型持续学习与自主进化的探索。它们均围绕基础模型能力提升展开。（晚点LatePost）",

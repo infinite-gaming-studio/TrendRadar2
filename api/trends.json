@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T19:18:27.206773+08:00",
-  "total_titles_processed": 1815,
+  "generated_at": "2026-01-09T20:39:13.768427+08:00",
+  "total_titles_processed": 1935,
   "failed_sources": [],
   "trends": [
     {
@@ -114,6 +114,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "東京大学 化学専攻 教授",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "LOL莎弥拉新皮肤战斗教授",
+          "url": "https://search.bilibili.com/all?keyword=LOL%E8%8E%8E%E5%BC%A5%E6%8B%89%E6%96%B0%E7%9A%AE%E8%82%A4%E6%88%98%E6%96%97%E6%95%99%E6%8E%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 20时39分]"
         }
       ]
     }

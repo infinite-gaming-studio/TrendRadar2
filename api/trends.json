@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T00:22:01.643835+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-11T01:16:24.560836+08:00",
+  "total_titles_processed": 341,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时16分]"
         },
         {
           "title": "多所高校辟谣“教授内推”等消息",
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时16分]"
         }
       ]
     }

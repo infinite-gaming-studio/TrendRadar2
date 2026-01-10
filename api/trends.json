@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T12:32:39.575775+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2026-01-10T13:20:05.073602+08:00",
+  "total_titles_processed": 1042,
   "failed_sources": [],
   "trends": [
     {
@@ -48,11 +48,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 12时32分]"
+          "appearance_count": 3,
+          "time_info": "[11时22分 ~ 13时20分]"
         },
         {
           "title": "SB ENERGY：OpenAI、软银集团和公司还建立了一种非排他性的首选合作伙伴关系，以开发数据中心建设的新模式。",
@@ -155,11 +156,12 @@
             30,
             29,
             18,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 12时32分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 13时20分]"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T18:23:12.191142+08:00",
-  "total_titles_processed": 1375,
+  "generated_at": "2026-01-12T19:19:30.823820+08:00",
+  "total_titles_processed": 1476,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时25分 ~ 18时23分]"
+          "appearance_count": 7,
+          "time_info": "[15时25分 ~ 19时19分]"
         },
         {
           "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
@@ -103,11 +103,12 @@
             22,
             26,
             20,
-            10
+            10,
+            30
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时22分 ~ 18时23分]"
+          "appearance_count": 20,
+          "time_info": "[00时22分 ~ 19时19分]"
         },
         {
           "title": "打着高校旗号的“教授内推”“付费保录”靠谱吗？专家分析",
@@ -120,8 +121,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时47分 ~ 18时23分]"
+          "appearance_count": 12,
+          "time_info": "[11时47分 ~ 19时19分]"
         }
       ]
     }

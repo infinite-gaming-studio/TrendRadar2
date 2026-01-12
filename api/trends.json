@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T21:41:05.701632+08:00",
-  "total_titles_processed": 1699,
+  "generated_at": "2026-01-12T22:23:48.717288+08:00",
+  "total_titles_processed": 1763,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时25分 ~ 21时41分]"
+          "appearance_count": 12,
+          "time_info": "[15时25分 ~ 22时23分]"
         },
         {
           "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
@@ -85,11 +85,12 @@
             9,
             11,
             10,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时47分 ~ 21时41分]"
+          "appearance_count": 17,
+          "time_info": "[11时47分 ~ 22时23分]"
         },
         {
           "title": "如何评价饶毅发文，称「把『非升即走』用于不独立的年轻人，是老教授院长院士所长滥用职权」？",

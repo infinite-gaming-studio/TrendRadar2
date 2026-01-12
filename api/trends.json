@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T02:29:12.031404+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2026-01-13T03:19:44.262200+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 02时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 03时19分]"
         },
         {
           "title": "谷歌：Gemini模型将为未来的苹果智能功能提供支持，包括今年即将推出的更个性化的Siri。",

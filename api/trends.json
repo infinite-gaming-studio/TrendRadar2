@@ -1,55 +1,11 @@
 {
-  "generated_at": "2026-01-12T12:48:25.982400+08:00",
-  "total_titles_processed": 867,
+  "generated_at": "2026-01-12T13:28:47.634870+08:00",
+  "total_titles_processed": 932,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "圆脸对话陆铭教授畅聊经济",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%86%E8%84%B8%E5%AF%B9%E8%AF%9D%E9%99%86%E9%93%AD%E6%95%99%E6%8E%88%E7%95%85%E8%81%8A%E7%BB%8F%E6%B5%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            7,
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 12时48分]"
-        },
-        {
-          "title": "打着高校旗号的“教授内推”“付费保录”靠谱吗？专家分析",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32365062",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 12时48分]"
-        },
-        {
-          "title": "如何评价饶毅发文，称「把『非升即走』用于不独立的年轻人，是老教授院长院士所长滥用职权」？",
-          "url": "https://www.zhihu.com/question/1993063954730223495",
-          "source": "知乎",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 12时48分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
@@ -78,6 +34,63 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时22分 ~ 06时17分]"
+        },
+        {
+          "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
+          "url": "https://flash.jin10.com/detail/20260112123727337800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "東京大学 化学専攻 教授",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "圆脸对话陆铭教授畅聊经济",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%86%E8%84%B8%E5%AF%B9%E8%AF%9D%E9%99%86%E9%93%AD%E6%95%99%E6%8E%88%E7%95%85%E8%81%8A%E7%BB%8F%E6%B5%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            7,
+            9,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 13时28分]"
+        },
+        {
+          "title": "打着高校旗号的“教授内推”“付费保录”靠谱吗？专家分析",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32365062",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 13时28分]"
+        },
+        {
+          "title": "如何评价饶毅发文，称「把『非升即走』用于不独立的年轻人，是老教授院长院士所长滥用职权」？",
+          "url": "https://www.zhihu.com/question/1993063954730223495",
+          "source": "知乎",
+          "ranks": [
+            10,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 13时28分]"
         }
       ]
     }

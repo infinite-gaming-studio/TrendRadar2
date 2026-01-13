@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T22:23:49.388440+08:00",
-  "total_titles_processed": 2025,
+  "generated_at": "2026-01-13T23:22:41.653140+08:00",
+  "total_titles_processed": 2134,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时21分 ~ 22时23分]"
+          "appearance_count": 18,
+          "time_info": "[09时21分 ~ 23时22分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时21分 ~ 22时23分]"
+          "appearance_count": 18,
+          "time_info": "[09时21分 ~ 23时22分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -93,6 +93,19 @@
           "time_info": "[15时23分 ~ 16时27分]"
         },
         {
+          "title": "UP主锐评苹果谷歌合作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时39分 ~ 23时22分]"
+        },
+        {
           "title": "谷歌：Gemini模型将为未来的苹果智能功能提供支持，包括今年即将推出的更个性化的Siri。",
           "url": "https://flash.jin10.com/detail/20260113001246569800",
           "source": "金十数据",
@@ -127,18 +140,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时22分]"
-        },
-        {
-          "title": "UP主锐评苹果谷歌合作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时39分 ~ 22时23分]"
         },
         {
           "title": "iPhone官宣接入Gemini",

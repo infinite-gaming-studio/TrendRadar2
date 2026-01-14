@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T14:31:17.713937+08:00",
-  "total_titles_processed": 1272,
+  "generated_at": "2026-01-14T15:24:09.890042+08:00",
+  "total_titles_processed": 1379,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
             8,
             9,
             6,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 14时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 15时24分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",

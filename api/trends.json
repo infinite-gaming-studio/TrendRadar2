@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T19:19:37.404123+08:00",
-  "total_titles_processed": 1788,
+  "generated_at": "2026-01-14T20:40:24.974622+08:00",
+  "total_titles_processed": 1900,
   "failed_sources": [],
   "trends": [
     {
@@ -47,6 +47,20 @@
           "time_info": "[00时28分 ~ 16时27分]"
         },
         {
+          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
+          "url": "https://www.zhihu.com/question/1994425649616671736",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 20时40分]"
+        },
+        {
           "title": "gemini3pro 真那么好用吗？",
           "url": "https://www.zhihu.com/question/1990762235694434081",
           "source": "知乎",
@@ -59,20 +73,6 @@
           "time_info": "[02时28分 ~ 06时20分]"
         },
         {
-          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
-          "url": "https://www.zhihu.com/question/1994425649616671736",
-          "source": "知乎",
-          "ranks": [
-            19,
-            20,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 19时19分]"
-        },
-        {
           "title": "Apple 芯片设计全球领先，为何大模型训练却认输外包给 Google？",
           "url": "https://www.zhihu.com/question/1994310970621859099",
           "source": "知乎",
@@ -82,6 +82,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时30分 ~ 14时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "東京大学 化学専攻 教授",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "大学教授期末捞人现状",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E6%9C%9F%E6%9C%AB%E6%8D%9E%E4%BA%BA%E7%8E%B0%E7%8A%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         }
       ]
     }

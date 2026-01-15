@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T22:23:15.942804+08:00",
-  "total_titles_processed": 2156,
+  "generated_at": "2026-01-15T23:23:05.045298+08:00",
+  "total_titles_processed": 2257,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时38分 ~ 22时23分]"
+          "appearance_count": 5,
+          "time_info": "[21时38分 ~ 23时23分]"
         },
         {
           "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
@@ -105,11 +105,12 @@
             16,
             9,
             22,
-            24
+            24,
+            21
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时38分 ~ 22时23分]"
+          "appearance_count": 17,
+          "time_info": "[12时38分 ~ 23时23分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",

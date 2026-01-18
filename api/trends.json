@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T02:25:08.285552+08:00",
-  "total_titles_processed": 370,
+  "generated_at": "2026-01-19T03:14:34.240560+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 02时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 03时14分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
           "url": "https://search.bilibili.com/all?keyword=%E7%BF%81%E5%AE%B6%E7%BF%8C%E8%B0%88OpenAI%E6%A8%A1%E5%9E%8B%E8%B7%83%E8%BF%81",
           "source": "bilibili 热搜",
           "ranks": [
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时24分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时24分 ~ 03时14分]"
         }
       ]
     }

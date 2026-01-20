@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T15:26:04.698967+08:00",
-  "total_titles_processed": 1278,
+  "generated_at": "2026-01-20T16:28:59.894588+08:00",
+  "total_titles_processed": 1390,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时42分 ~ 15时26分]"
+          "appearance_count": 7,
+          "time_info": "[11时42分 ~ 16时28分]"
         },
         {
           "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",

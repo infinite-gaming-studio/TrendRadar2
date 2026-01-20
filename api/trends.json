@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T17:32:28.619288+08:00",
-  "total_titles_processed": 1498,
+  "generated_at": "2026-01-20T18:25:29.004783+08:00",
+  "total_titles_processed": 1592,
   "failed_sources": [],
   "trends": [
     {
@@ -62,20 +62,21 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "谷歌Gemini商业化高歌猛进 API调用量5个月暴增140%",
-          "url": "https://www.cls.cn/detail/2262987",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 17时32分]"
-        },
-        {
           "title": "谷歌 Gemini 准确率从 21% 提升至 97% 仅靠「复制粘贴」，这意味着什么？",
           "url": "https://www.zhihu.com/question/1996233131175462349",
           "source": "知乎",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 18时25分]"
+        },
+        {
+          "title": "谷歌Gemini商业化高歌猛进 API调用量5个月暴增140%",
+          "url": "https://www.cls.cn/detail/2262987",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
@@ -93,6 +94,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "東京大学 化学専攻 教授",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "多所高校否认女副教授转岗保安",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E5%90%A6%E8%AE%A4%E5%A5%B3%E5%89%AF%E6%95%99%E6%8E%88%E8%BD%AC%E5%B2%97%E4%BF%9D%E5%AE%89%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         }
       ]
     }

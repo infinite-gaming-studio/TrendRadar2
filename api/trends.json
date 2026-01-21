@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T12:42:35.224568+08:00",
-  "total_titles_processed": 1113,
+  "generated_at": "2026-01-21T13:27:47.481138+08:00",
+  "total_titles_processed": 1200,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI已开始向数十家广告商展示其全新的聊天机器人广告。OpenAI将于2月份正式推出聊天机器人广告，并将根据广告曝光量（浏览量）进行计费。（The Information）",
@@ -43,13 +43,24 @@
           "time_info": "01时28分"
         },
         {
+          "title": "盖茨基金会和OpenAI计划投资5000万美元 资助非洲AI医疗",
+          "url": "https://flash.jin10.com/detail/20260121131506452800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "据The Information：OpenAI将于二月推出聊天机器人广告，并根据广告浏览量收费。",
           "url": "https://flash.jin10.com/detail/20260121113244610800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },

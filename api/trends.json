@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T09:27:39.262484+08:00",
-  "total_titles_processed": 864,
+  "generated_at": "2026-01-22T11:46:13.520590+08:00",
+  "total_titles_processed": 1024,
   "failed_sources": [],
   "trends": [
     {
@@ -61,6 +61,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "東京大学 化学専攻 教授",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "博主自称“性商”第一人，教授女性吸引异性，学费最高8.8万",
+          "url": "https://news.ifeng.com/c/8q7EnUhusmu",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 11时46分]"
         }
       ]
     }

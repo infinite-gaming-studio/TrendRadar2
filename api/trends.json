@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T22:28:45.351518+08:00",
-  "total_titles_processed": 2062,
+  "generated_at": "2026-01-22T23:29:03.849824+08:00",
+  "total_titles_processed": 2157,
   "failed_sources": [],
   "trends": [
     {
@@ -69,6 +69,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "教授神评:美国公平度碾压国内",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349550&amp;topic_name=%E6%95%99%E6%8E%88%E7%A5%9E%E8%AF%84%3A%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%B9%B3%E5%BA%A6%E7%A2%BE%E5%8E%8B%E5%9B%BD%E5%86%85",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时21分 ~ 23时29分]"
+        },
+        {
           "title": "博主自称“性商”第一人，教授女性吸引异性，学费最高8.8万",
           "url": "https://news.ifeng.com/c/8q7EnUhusmu",
           "source": "凤凰网",
@@ -78,17 +90,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[11时45分 ~ 18时25分]"
-        },
-        {
-          "title": "教授神评:美国公平度碾压国内",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349550&amp;topic_name=%E6%95%99%E6%8E%88%E7%A5%9E%E8%AF%84%3A%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%B9%B3%E5%BA%A6%E7%A2%BE%E5%8E%8B%E5%9B%BD%E5%86%85",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时21分 ~ 22时28分]"
         }
       ]
     },

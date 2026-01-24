@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T19:16:38.196088+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2026-01-24T20:36:11.696450+08:00",
+  "total_titles_processed": 1418,
   "failed_sources": [],
   "trends": [
     {
@@ -96,6 +96,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时23分 ~ 16时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "東京大学 化学専攻 教授",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国防科大教授周末晚在教室磨课",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%98%B2%E7%A7%91%E5%A4%A7%E6%95%99%E6%8E%88%E5%91%A8%E6%9C%AB%E6%99%9A%E5%9C%A8%E6%95%99%E5%AE%A4%E7%A3%A8%E8%AF%BE%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 20时36分]"
         }
       ]
     }

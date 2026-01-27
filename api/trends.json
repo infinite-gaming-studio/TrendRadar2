@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T15:26:23.004750+08:00",
-  "total_titles_processed": 1336,
+  "generated_at": "2026-01-27T16:30:06.749159+08:00",
+  "total_titles_processed": 1446,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时25分 ~ 15时26分]"
+          "appearance_count": 5,
+          "time_info": "[13时25分 ~ 16时30分]"
         },
         {
           "title": "微软(MSFT.O)：推出MAIA 200芯片，这是一款基于台积电3纳米工艺打造的AI推理加速器。MAIA 200 将服务于多种人工智能模型，包括来自OpenAI的最新 GPT-5.2 模型。",

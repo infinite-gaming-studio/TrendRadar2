@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T12:42:31.560727+08:00",
-  "total_titles_processed": 1114,
+  "generated_at": "2026-01-28T13:26:15.229667+08:00",
+  "total_titles_processed": 1186,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时42分]"
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 13时26分]"
         },
         {
           "title": "OpenAI首发免费工具Prism，用于帮助科学家们更容易地应用ChatGPT来草拟研究论文。",
@@ -104,6 +105,17 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
+          "url": "https://wallstreetcn.com/articles/3764292",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时27分 ~ 13时26分]"
+        },
+        {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
           "url": "https://flash.jin10.com/detail/20260128020246054800",
           "source": "金十数据",
@@ -114,17 +126,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时35分 ~ 03时25分]"
-        },
-        {
-          "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
-          "url": "https://wallstreetcn.com/articles/3764292",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 12时42分]"
         },
         {
           "title": "谷歌：Gemini 3现已成为全球AI概览的默认模型。",

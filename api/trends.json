@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T16:36:01.006546+08:00",
-  "total_titles_processed": 1536,
+  "generated_at": "2026-01-29T17:40:27.547824+08:00",
+  "total_titles_processed": 1640,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "人类基因密码被谷歌AI破解",
@@ -42,6 +42,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "谷歌DeepMind登Nature封面",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CDeepMind%E7%99%BBNature%E5%B0%81%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "東京大学 化学専攻 教授",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "哈工大辟谣学生捅伤两名教授",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B7%A5%E5%A4%A7%E8%BE%9F%E8%B0%A3%E5%AD%A6%E7%94%9F%E6%8D%85%E4%BC%A4%E4%B8%A4%E5%90%8D%E6%95%99%E6%8E%88%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时41分 ~ 15时39分]"
+        },
+        {
+          "title": "清华教授神侃:情场女投资＞男",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349897&amp;topic_name=%E6%B8%85%E5%8D%8E%E6%95%99%E6%8E%88%E7%A5%9E%E4%BE%83%3A%E6%83%85%E5%9C%BA%E5%A5%B3%E6%8A%95%E8%B5%84%EF%BC%9E%E7%94%B7",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
+          "title": "哈工大教授辟谣被学生捅伤",
+          "url": "https://www.toutiao.com/trending/7600623907980185131/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 16时36分]"
         }
       ]
     },
@@ -70,36 +122,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "哈工大辟谣学生捅伤两名教授",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B7%A5%E5%A4%A7%E8%BE%9F%E8%B0%A3%E5%AD%A6%E7%94%9F%E6%8D%85%E4%BC%A4%E4%B8%A4%E5%90%8D%E6%95%99%E6%8E%88%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时41分 ~ 15时39分]"
-        },
-        {
-          "title": "哈工大教授辟谣被学生捅伤",
-          "url": "https://www.toutiao.com/trending/7600623907980185131/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 16时36分]"
         }
       ]
     }

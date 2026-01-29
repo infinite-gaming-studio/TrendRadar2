@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T21:59:08.507160+08:00",
-  "total_titles_processed": 2057,
+  "generated_at": "2026-01-29T22:41:08.386698+08:00",
+  "total_titles_processed": 2125,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时28分 ~ 21时59分]"
+          "appearance_count": 7,
+          "time_info": "[19时28分 ~ 22时41分]"
         },
         {
           "title": "OpenAI 发布基于 GPT-5.2 的 Prism，专注科研领域的 AI 协作。科研人能用它来做些什么？",
@@ -27,8 +27,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时58分 ~ 21时59分]"
+          "appearance_count": 4,
+          "time_info": "[21时58分 ~ 22时41分]"
         },
         {
           "title": "金十整理：云增速放缓、被指患上“OpenAI依赖症”， 微软遭投行集体“砍价”",
@@ -94,8 +94,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时40分 ~ 21时59分]"
+          "appearance_count": 9,
+          "time_info": "[17时40分 ~ 22时41分]"
         },
         {
           "title": "谷歌同意就与蜂窝数据处理相关的集体诉讼达成和解协议，谷歌将支付1.35亿美元作为集体诉讼和解的一部分。",
@@ -136,8 +136,22 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时40分 ~ 21时59分]"
+          "appearance_count": 9,
+          "time_info": "[17时40分 ~ 22时41分]"
+        },
+        {
+          "title": "网传陕西某高校被指买卖职称，仅凭几百万横向课题就能评上教授，这是真的吗？这种现象是否普遍存在？",
+          "url": "https://www.zhihu.com/question/1999743610711728344",
+          "source": "知乎",
+          "ranks": [
+            14,
+            11,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时34分 ~ 22时41分]"
         },
         {
           "title": "哈工大辟谣学生捅伤两名教授",
@@ -151,19 +165,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时41分 ~ 15时39分]"
-        },
-        {
-          "title": "网传陕西某高校被指买卖职称，仅凭几百万横向课题就能评上教授，这是真的吗？这种现象是否普遍存在？",
-          "url": "https://www.zhihu.com/question/1999743610711728344",
-          "source": "知乎",
-          "ranks": [
-            14,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时34分 ~ 21时59分]"
         },
         {
           "title": "哈工大教授辟谣被学生捅伤",

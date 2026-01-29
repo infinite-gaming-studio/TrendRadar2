@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T15:39:00.666758+08:00",
-  "total_titles_processed": 1430,
+  "generated_at": "2026-01-29T16:36:01.006546+08:00",
+  "total_titles_processed": 1536,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             7,
-            15
+            15,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时06分 ~ 15时39分]"
+          "appearance_count": 8,
+          "time_info": "[12时06分 ~ 16时36分]"
         },
         {
           "title": "谷歌同意就与蜂窝数据处理相关的集体诉讼达成和解协议，谷歌将支付1.35亿美元作为集体诉讼和解的一部分。",
@@ -74,7 +75,7 @@
     },
     {
       "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "哈工大辟谣学生捅伤两名教授",
@@ -88,6 +89,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时41分 ~ 15时39分]"
+        },
+        {
+          "title": "哈工大教授辟谣被学生捅伤",
+          "url": "https://www.toutiao.com/trending/7600623907980185131/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 16时36分]"
         }
       ]
     }

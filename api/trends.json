@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T14:02:20.829704+08:00",
-  "total_titles_processed": 748,
+  "generated_at": "2026-02-01T15:36:13.104993+08:00",
+  "total_titles_processed": 834,
   "failed_sources": [],
   "trends": [
     {
@@ -91,8 +91,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 14时02分]"
+          "appearance_count": 5,
+          "time_info": "[12时58分 ~ 15时36分]"
         },
         {
           "title": "韦神飞升,获聘北大副教授",
@@ -102,8 +102,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 14时02分]"
+          "appearance_count": 5,
+          "time_info": "[12时58分 ~ 15时36分]"
+        },
+        {
+          "title": "韦东奕有新身份：北大长聘副教授",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A6%E4%B8%9C%E5%A5%95%E6%9C%89%E6%96%B0%E8%BA%AB%E4%BB%BD%EF%BC%9A%E5%8C%97%E5%A4%A7%E9%95%BF%E8%81%98%E5%89%AF%E6%95%99%E6%8E%88",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            14,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时02分 ~ 15时36分]"
         },
         {
           "title": "韦东奕正式获聘北大长聘副教授",
@@ -131,29 +145,17 @@
           "time_info": "[10时02分 ~ 12时59分]"
         },
         {
-          "title": "韦东奕有新身份：北大长聘副教授",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A6%E4%B8%9C%E5%A5%95%E6%9C%89%E6%96%B0%E8%BA%AB%E4%BB%BD%EF%BC%9A%E5%8C%97%E5%A4%A7%E9%95%BF%E8%81%98%E5%89%AF%E6%95%99%E6%8E%88",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时02分 ~ 14时02分]"
-        },
-        {
           "title": "韦东奕已成为北京大学数学科学学院长聘副教授",
           "url": "https://m.thepaper.cn/newsDetail_forward_32509639",
           "source": "澎湃新闻",
           "ranks": [
             11,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 14时02分]"
+          "appearance_count": 5,
+          "time_info": "[12时58分 ~ 15时36分]"
         }
       ]
     },

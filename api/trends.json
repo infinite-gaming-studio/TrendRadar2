@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T19:20:06.179713+08:00",
-  "total_titles_processed": 1072,
+  "generated_at": "2026-02-01T20:42:53.566851+08:00",
+  "total_titles_processed": 1158,
   "failed_sources": [],
   "trends": [
     {
@@ -83,11 +83,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时20分]"
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 20时42分]"
         },
         {
           "title": "英伟达CEO黄仁勋：OpenAI邀请我们进行高达1000亿美元的投资。对OpenAI的投资从来都不是承诺。我们会一步一步地投资。",
@@ -95,22 +96,24 @@
           "source": "金十数据",
           "ranks": [
             1,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时20分]"
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 20时42分]"
         },
         {
           "title": "黄仁勋：英伟达向OpenAI的投资从来不是一项承诺",
           "url": "https://flash.jin10.com/detail/20260201180928077800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时42分]"
         }
       ]
     },
@@ -127,8 +130,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时58分 ~ 19时20分]"
+          "appearance_count": 11,
+          "time_info": "[12时58分 ~ 20时42分]"
         },
         {
           "title": "韦神飞升,获聘北大副教授",
@@ -138,11 +141,12 @@
             5,
             6,
             7,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时58分 ~ 19时20分]"
+          "appearance_count": 11,
+          "time_info": "[12时58分 ~ 20时42分]"
         },
         {
           "title": "韦东奕已成为北京大学数学科学学院长聘副教授",
@@ -156,8 +160,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时58分 ~ 19时20分]"
+          "appearance_count": 11,
+          "time_info": "[12时58分 ~ 20时42分]"
         },
         {
           "title": "韦东奕有新身份：北大长聘副教授",
@@ -203,7 +207,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "UP体验谷歌最新世界模型",
@@ -218,6 +222,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时24分 ~ 10时02分]"
+        },
+        {
+          "title": "下周重磅日程：美非农、欧英央行决议、日本大选、伊朗局势、谷歌亚马逊AMD财报",
+          "url": "https://wallstreetcn.com/articles/3764656",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         }
       ]
     }

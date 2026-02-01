@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T10:02:45.233512+08:00",
-  "total_titles_processed": 543,
+  "generated_at": "2026-02-01T12:59:06.735196+08:00",
+  "total_titles_processed": 686,
   "failed_sources": [],
   "trends": [
     {
@@ -73,7 +73,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         }
@@ -81,40 +81,76 @@
     },
     {
       "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "韦东奕正式获聘北大长聘副教授",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A6%E4%B8%9C%E5%A5%95%E6%AD%A3%E5%BC%8F%E8%8E%B7%E8%81%98%E5%8C%97%E5%A4%A7%E9%95%BF%E8%81%98%E5%89%AF%E6%95%99%E6%8E%88%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
         {
           "title": "韦东奕正式获聘北大长聘副教授",
           "url": "https://www.toutiao.com/trending/7601688625796894218/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 12时59分]"
+        },
+        {
+          "title": "韦东奕正式获聘北大长聘副教授，打破了哪些常规？在「非升即走」压力下，「长聘」意味着什么？",
+          "url": "https://www.zhihu.com/question/2001221803352221148",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
+          "title": "韦神飞升,获聘北大副教授",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349990&amp;topic_name=%E9%9F%A6%E7%A5%9E%E9%A3%9E%E5%8D%87%2C%E8%8E%B7%E8%81%98%E5%8C%97%E5%A4%A7%E5%89%AF%E6%95%99%E6%8E%88",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
+          "title": "韦东奕正式获聘北大长聘副教授",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A6%E4%B8%9C%E5%A5%95%E6%AD%A3%E5%BC%8F%E8%8E%B7%E8%81%98%E5%8C%97%E5%A4%A7%E9%95%BF%E8%81%98%E5%89%AF%E6%95%99%E6%8E%88%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 12时59分]"
         },
         {
           "title": "韦东奕有新身份：北大长聘副教授",
           "url": "https://www.baidu.com/s?wd=%E9%9F%A6%E4%B8%9C%E5%A5%95%E6%9C%89%E6%96%B0%E8%BA%AB%E4%BB%BD%EF%BC%9A%E5%8C%97%E5%A4%A7%E9%95%BF%E8%81%98%E5%89%AF%E6%95%99%E6%8E%88",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 12时59分]"
+        },
+        {
+          "title": "韦东奕已成为北京大学数学科学学院长聘副教授",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32509639",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
         }
       ]
     },

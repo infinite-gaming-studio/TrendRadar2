@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T12:23:36.106511+08:00",
-  "total_titles_processed": 785,
+  "generated_at": "2026-02-02T14:02:39.926102+08:00",
+  "total_titles_processed": 917,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 12时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 14时02分]"
         },
         {
           "title": "韦东奕已成为北京大学数学科学学院长聘副教授",
@@ -60,11 +60,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 12时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 14时02分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -90,11 +91,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 12时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 14时02分]"
         }
       ]
     }

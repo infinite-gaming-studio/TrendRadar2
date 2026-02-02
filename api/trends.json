@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T07:22:29.996690+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-02-02T09:55:26.175109+08:00",
+  "total_titles_processed": 615,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 07时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 09时55分]"
         },
         {
           "title": "韦神飞升,获聘北大副教授",
@@ -26,11 +26,12 @@
           "source": "贴吧",
           "ranks": [
             17,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 07时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 09时55分]"
         },
         {
           "title": "韦东奕正式获聘北大长聘副教授，打破了哪些常规？在「非升即走」压力下，「长聘」意味着什么？",
@@ -39,11 +40,12 @@
           "ranks": [
             9,
             19,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 07时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 09时55分]"
         }
       ]
     },
@@ -85,11 +87,12 @@
           "url": "https://wallstreetcn.com/articles/3764656",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 07时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 09时55分]"
         }
       ]
     }

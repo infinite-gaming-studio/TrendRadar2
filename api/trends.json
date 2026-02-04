@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T14:46:54.159145+08:00",
-  "total_titles_processed": 1246,
+  "generated_at": "2026-02-04T15:42:54.723124+08:00",
+  "total_titles_processed": 1344,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时48分 ~ 14时46分]"
+          "appearance_count": 7,
+          "time_info": "[09时48分 ~ 15时42分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
@@ -281,8 +282,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时49分 ~ 14时46分]"
+          "appearance_count": 17,
+          "time_info": "[00时49分 ~ 15时42分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",

@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-02-08T15:37:52.733335+08:00",
-  "total_titles_processed": 843,
+  "generated_at": "2026-02-08T16:30:24.154331+08:00",
+  "total_titles_processed": 902,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
+          "url": "https://wallstreetcn.com/articles/3765245",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时30分]"
+        }
+      ]
+    },
     {
       "keyword_group": "東京大学 化学専攻 教授",
       "match_count": 1,

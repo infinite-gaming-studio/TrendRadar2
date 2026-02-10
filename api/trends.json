@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T13:02:21.337672+08:00",
-  "total_titles_processed": 914,
+  "generated_at": "2026-02-10T15:01:53.906708+08:00",
+  "total_titles_processed": 1045,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 13时02分]"
+          "appearance_count": 3,
+          "time_info": "[10时07分 ~ 15时01分]"
         },
         {
           "title": "谷歌母公司Alphabet的美元债发行获得超过1000亿美元认购需求。（彭博）",
@@ -37,7 +38,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -124,11 +125,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350476&amp;topic_name=%E9%99%AA%E8%AF%BB%E5%A6%88%E6%80%80%E6%95%99%E6%8E%88%E5%A8%83%2C%E5%8F%8D%E5%92%AC%E4%B8%88%E5%A4%AB%E5%87%BA%E8%BD%A8",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 15时01分]"
         }
       ]
     }

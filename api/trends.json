@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T07:36:23.589865+08:00",
-  "total_titles_processed": 675,
+  "generated_at": "2026-02-11T10:03:43.881793+08:00",
+  "total_titles_processed": 826,
   "failed_sources": [],
   "trends": [
     {
@@ -76,6 +76,23 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "韩国科学部长：OpenAI、三星和SK将于3月在韩国启动数据中心建设。",
+          "url": "https://flash.jin10.com/detail/20260211093843055800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "東京大学 化学専攻 教授",
       "match_count": 1,
       "titles": [
@@ -88,8 +105,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时05分 ~ 07时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时05分 ~ 10时03分]"
         }
       ]
     }

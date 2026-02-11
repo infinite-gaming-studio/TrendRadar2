@@ -1,8 +1,37 @@
 {
-  "generated_at": "2026-02-12T01:08:18.475899+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-12T02:59:32.701342+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "東京大学 化学専攻 教授",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "陪读妈怀教授娃,反咬丈夫出轨",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350476&amp;topic_name=%E9%99%AA%E8%AF%BB%E5%A6%88%E6%80%80%E6%95%99%E6%8E%88%E5%A8%83%2C%E5%8F%8D%E5%92%AC%E4%B8%88%E5%A4%AB%E5%87%BA%E8%BD%A8",
+          "source": "贴吧",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 02时59分]"
+        },
+        {
+          "title": "如何看待单墫教授对初中数学「一线三等角」的批评？",
+          "url": "https://www.zhihu.com/question/2004606264995496333",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
@@ -13,23 +42,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "陪读妈怀教授娃,反咬丈夫出轨",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350476&amp;topic_name=%E9%99%AA%E8%AF%BB%E5%A6%88%E6%80%80%E6%95%99%E6%8E%88%E5%A8%83%2C%E5%8F%8D%E5%92%AC%E4%B8%88%E5%A4%AB%E5%87%BA%E8%BD%A8",
-          "source": "贴吧",
-          "ranks": [
-            27
           ],
           "is_new": false,
           "appearance_count": 1,

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T19:30:19.614157+08:00",
-  "total_titles_processed": 1645,
+  "generated_at": "2026-02-13T20:53:52.807645+08:00",
+  "total_titles_processed": 1769,
   "failed_sources": [],
   "trends": [
     {
@@ -187,7 +187,7 @@
     },
     {
       "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "耶鲁教授被停课调查，曾推荐女学生为爱泼斯坦工作",
@@ -200,6 +200,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时25分 ~ 16时39分]"
+        },
+        {
+          "title": "英国政府：布赖恩·贝尔教授（Brian Bell）已被任命为财政部新任首席经济顾问。",
+          "url": "https://flash.jin10.com/detail/20260213202317022800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         }
       ]
     }

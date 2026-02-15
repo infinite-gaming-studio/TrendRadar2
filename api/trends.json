@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T00:26:52.582146+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-16T01:24:15.668514+08:00",
+  "total_titles_processed": 346,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
@@ -15,8 +15,19 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时24分]"
+        },
+        {
+          "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
+          "url": "https://www.zhihu.com/question/2004209286281205228",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时26分"
+          "time_info": "01时24分"
         }
       ]
     },
@@ -29,11 +40,12 @@
           "url": "https://wallstreetcn.com/articles/3765755",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时24分]"
         }
       ]
     }

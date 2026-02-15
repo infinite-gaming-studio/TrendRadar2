@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T16:31:01.723026+08:00",
-  "total_titles_processed": 936,
+  "generated_at": "2026-02-15T17:29:39.302549+08:00",
+  "total_titles_processed": 989,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             9,
             6,
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时58分 ~ 16时31分]"
+          "appearance_count": 10,
+          "time_info": "[09时58分 ~ 17时29分]"
         },
         {
           "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
@@ -30,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时58分 ~ 16时31分]"
+          "appearance_count": 10,
+          "time_info": "[09时58分 ~ 17时29分]"
         },
         {
           "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T05:30:19.209427+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-02-20T06:29:07.397268+08:00",
+  "total_titles_processed": 612,
   "failed_sources": [],
   "trends": [
     {
@@ -60,8 +60,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 05时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 06时29分]"
         },
         {
           "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
@@ -99,11 +99,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%9C%A8%E6%B3%B0%E5%9B%BD%E5%BA%A6%E5%81%87%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%95%99%E6%8E%88%E6%95%91%E4%B8%8B%E6%BA%BA%E6%B0%B4%E5%B9%BC%E7%AB%A5",
           "source": "百度热搜",
           "ranks": [
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时47分 ~ 03时38分]"
+          "appearance_count": 4,
+          "time_info": "[02时47分 ~ 06时29分]"
         }
       ]
     }

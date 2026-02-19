@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T22:11:53.670620+08:00",
-  "total_titles_processed": 1715,
+  "generated_at": "2026-02-19T23:45:18.241917+08:00",
+  "total_titles_processed": 1829,
   "failed_sources": [],
   "trends": [
     {
@@ -114,8 +114,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时37分 ~ 22时11分]"
+          "appearance_count": 4,
+          "time_info": "[19时37分 ~ 23时45分]"
         },
         {
           "title": "OpenAI最新一轮融资进展顺利，融资总额有望突破1000亿美元，首轮融资将于本月完成。（The Information）",

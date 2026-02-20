@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-02-21T00:36:14.674836+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-21T01:36:00.171979+08:00",
+  "total_titles_processed": 375,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI创始人点赞中国大模型",
+          "url": "https://www.toutiao.com/trending/7608951834689932827/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时35分 ~ 01时36分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

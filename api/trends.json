@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T17:28:56.189082+08:00",
-  "total_titles_processed": 968,
+  "generated_at": "2026-02-22T18:22:30.526302+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时53分 ~ 17时28分]"
+          "appearance_count": 11,
+          "time_info": "[09时53分 ~ 18时22分]"
         },
         {
           "title": "实测Gemini 3.1 Pro",
@@ -37,11 +37,12 @@
             5,
             13,
             14,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时25分 ~ 17时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时25分 ~ 18时22分]"
         },
         {
           "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
@@ -70,8 +71,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时25分 ~ 17时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时25分 ~ 18时22分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -80,11 +81,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时35分 ~ 17时28分]"
+          "appearance_count": 5,
+          "time_info": "[15时35分 ~ 18时22分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",

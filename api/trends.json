@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T07:31:09.468274+08:00",
-  "total_titles_processed": 635,
+  "generated_at": "2026-02-25T09:55:05.308324+08:00",
+  "total_titles_processed": 796,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌(GOOG.O)旗下自动驾驶部门Waymo将其自动驾驶叫车服务扩展至美国四座城市。",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时50分 ~ 04时32分]"
+        },
+        {
+          "title": "谷歌宣布将新建数据中心：承诺电费全包不涨价 绿电+储能齐推进",
+          "url": "https://www.cls.cn/detail/2294085",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 09时55分]"
         },
         {
           "title": "谷歌将在明尼苏达州建设数据中心，配套新增太阳能、风电及储能项目",
@@ -65,9 +76,26 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "東京大学 化学専攻 教授",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "ICE前法律顾问：曾被命令教授执法人员“如何违法”",
+          "url": "https://news.ifeng.com/c/8r1aQGEVkUm",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 09时55分]"
         }
       ]
     }

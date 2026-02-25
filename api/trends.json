@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T18:48:31.252041+08:00",
-  "total_titles_processed": 1485,
+  "generated_at": "2026-02-25T19:40:37.287859+08:00",
+  "total_titles_processed": 1570,
   "failed_sources": [],
   "trends": [
     {
@@ -90,8 +90,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时52分 ~ 18时48分]"
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 19时40分]"
         },
         {
           "title": "OpenAI：欢迎美国法院针对x.AI官司的决定。",

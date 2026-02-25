@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T09:55:05.308324+08:00",
-  "total_titles_processed": 796,
+  "generated_at": "2026-02-25T12:19:41.757712+08:00",
+  "total_titles_processed": 956,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "url": "https://www.cls.cn/detail/2294085",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 09时55分]"
+          "appearance_count": 3,
+          "time_info": "[09时54分 ~ 12时19分]"
         },
         {
           "title": "谷歌将在明尼苏达州建设数据中心，配套新增太阳能、风电及储能项目",

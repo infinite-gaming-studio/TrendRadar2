@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T12:15:12.525226+08:00",
-  "total_titles_processed": 1012,
+  "generated_at": "2026-02-26T13:56:21.684690+08:00",
+  "total_titles_processed": 1139,
   "failed_sources": [],
   "trends": [
     {
@@ -88,11 +88,12 @@
           "url": "https://www.douyin.com/hot/2412151",
           "source": "抖音",
           "ranks": [
-            22
+            22,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 13时56分]"
         },
         {
           "title": "爱泼斯坦文件风波：拉里·萨默斯将辞去哈佛大学教授职务",

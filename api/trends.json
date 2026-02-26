@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T15:52:11.917593+08:00",
-  "total_titles_processed": 1312,
+  "generated_at": "2026-02-26T16:43:49.836185+08:00",
+  "total_titles_processed": 1424,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时57分 ~ 15时52分]"
+          "appearance_count": 4,
+          "time_info": "[14时57分 ~ 16时43分]"
         },
         {
           "title": "谷歌公司在欧盟抱怨之后测试搜索引擎的修改。（路透）",

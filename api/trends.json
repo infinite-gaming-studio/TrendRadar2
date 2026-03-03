@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T18:36:38.331252+08:00",
-  "total_titles_processed": 1705,
+  "generated_at": "2026-03-03T19:31:51.147522+08:00",
+  "total_titles_processed": 1806,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时37分 ~ 18时36分]"
+          "appearance_count": 5,
+          "time_info": "[16时37分 ~ 19时31分]"
         },
         {
           "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",

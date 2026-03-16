@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-03-16T19:44:13.954989+08:00",
-  "total_titles_processed": 1372,
+  "generated_at": "2026-03-16T21:05:11.792233+08:00",
+  "total_titles_processed": 1478,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
+          "url": "https://wallstreetcn.com/articles/3767569",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 21时05分]"
+        }
+      ]
+    },
     {
       "keyword_group": "東京大学 化学専攻 教授",
       "match_count": 1,

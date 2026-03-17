@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T07:29:45.449920+08:00",
-  "total_titles_processed": 711,
+  "generated_at": "2026-03-17T09:53:00.843700+08:00",
+  "total_titles_processed": 880,
   "failed_sources": [],
   "trends": [
     {
@@ -27,7 +27,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -58,6 +58,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "東京大学 化学専攻 教授",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价华东师大教授朱国华公开为博士生找教职？为什么「学生没发 C 刊但确实优秀」的担保反而引发争议？",
+          "url": "https://www.zhihu.com/question/2016912604472239278",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T14:02:34.598834+08:00",
-  "total_titles_processed": 1137,
+  "generated_at": "2026-03-18T15:50:51.017485+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时57分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[09时57分 ~ 15时50分]"
         },
         {
           "title": "OpenAI：GPT-5.4 Mini在ChatGPT、Codex、API上线。 在GPT-5.4中，GPT-5.4 Nano是最便宜的一款。",
@@ -50,7 +51,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },

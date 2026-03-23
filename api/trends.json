@@ -1,107 +1,33 @@
 {
-  "generated_at": "2026-03-23T23:58:32.902820+08:00",
-  "total_titles_processed": 1831,
+  "generated_at": "2026-03-24T00:58:41.742024+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "教授地铁审博士论文视频海外爆火",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E6%8E%88%E5%9C%B0%E9%93%81%E5%AE%A1%E5%8D%9A%E5%A3%AB%E8%AE%BA%E6%96%87%E8%A7%86%E9%A2%91%E6%B5%B7%E5%A4%96%E7%88%86%E7%81%AB%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            5,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时51分 ~ 22时19分]"
-        },
-        {
-          "title": "日本教授中国旅游后感叹日本变态",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E6%95%99%E6%8E%88%E4%B8%AD%E5%9B%BD%E6%97%85%E6%B8%B8%E5%90%8E%E6%84%9F%E5%8F%B9%E6%97%A5%E6%9C%AC%E5%8F%98%E6%80%81&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时09分 ~ 17时10分]"
-        },
-        {
-          "title": "美教授：中国是国际舞台仅剩的成年人",
-          "url": "https://www.toutiao.com/trending/7620315118065713193/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时10分 ~ 19时42分]"
-        },
-        {
-          "title": "郑强教授：AI发展不能低端化平庸化",
-          "url": "https://www.toutiao.com/trending/7619238244945346579/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
         {
-          "title": "据AXIOS：OpenAI正就从Sam Altman支持的核聚变初创公司Helion Energy购买电力进行深入谈判。",
-          "url": "https://flash.jin10.com/detail/20260323170206648800",
-          "source": "金十数据",
+          "title": "如何看待谷歌逐步收紧安卓应用侧载计划？",
+          "url": "https://www.zhihu.com/question/2019018192186557023",
+          "source": "知乎",
           "ranks": [
-            5
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时10分"
+          "time_info": "00时58分"
         },
-        {
-          "title": "OpenAI聘请前Meta广告高管Davedugan负责广告销售。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3075178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
         {
           "title": "谷歌旗下Wing将在旧金山湾区开始无人机送货服务",
           "url": "https://wallstreetcn.com/livenews/3075306",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时58分"
+          "time_info": "00时58分"
         }
       ]
     }

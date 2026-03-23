@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-23T07:25:05.473610+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2026-03-23T09:59:12.989567+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "東京大学 化学専攻 教授",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "郑强教授：AI发展不能低端化平庸化",
+          "url": "https://www.toutiao.com/trending/7619238244945346579/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

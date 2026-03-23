@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T21:02:16.748434+08:00",
-  "total_titles_processed": 1617,
+  "generated_at": "2026-03-23T22:19:40.269252+08:00",
+  "total_titles_processed": 1723,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             18,
             5,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时51分 ~ 21时02分]"
+          "appearance_count": 5,
+          "time_info": "[18时51分 ~ 22时19分]"
         },
         {
           "title": "日本教授中国旅游后感叹日本变态",
@@ -81,7 +82,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         }

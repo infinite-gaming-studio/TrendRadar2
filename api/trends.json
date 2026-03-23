@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T17:10:55.503286+08:00",
-  "total_titles_processed": 1262,
+  "generated_at": "2026-03-23T18:51:36.252099+08:00",
+  "total_titles_processed": 1400,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "日本教授中国旅游后感叹日本变态",
@@ -21,6 +21,18 @@
           "time_info": "[14时09分 ~ 17时10分]"
         },
         {
+          "title": "美教授：中国是国际舞台仅剩的成年人",
+          "url": "https://www.toutiao.com/trending/7620315118065713193/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时10分 ~ 18时51分]"
+        },
+        {
           "title": "郑强教授：AI发展不能低端化平庸化",
           "url": "https://www.toutiao.com/trending/7619238244945346579/",
           "source": "今日头条",
@@ -32,15 +44,15 @@
           "time_info": "[09时58分 ~ 09时59分]"
         },
         {
-          "title": "美教授：中国是国际舞台仅剩的成年人",
-          "url": "https://www.toutiao.com/trending/7620315118065713193/",
-          "source": "今日头条",
+          "title": "教授地铁审博士论文视频海外爆火",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E6%8E%88%E5%9C%B0%E9%93%81%E5%AE%A1%E5%8D%9A%E5%A3%AB%E8%AE%BA%E6%96%87%E8%A7%86%E9%A2%91%E6%B5%B7%E5%A4%96%E7%88%86%E7%81%AB%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            28
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时10分"
+          "time_info": "18时51分"
         }
       ]
     },
@@ -55,7 +67,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时10分"
         }

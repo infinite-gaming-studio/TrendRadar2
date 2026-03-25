@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T19:40:16.720860+08:00",
-  "total_titles_processed": 1759,
+  "generated_at": "2026-03-25T21:03:04.878448+08:00",
+  "total_titles_processed": 1866,
   "failed_sources": [],
   "trends": [
     {
@@ -33,11 +33,12 @@
             22,
             25,
             16,
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时56分 ~ 19时40分]"
+          "appearance_count": 13,
+          "time_info": "[09时56分 ~ 21时03分]"
         },
         {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",

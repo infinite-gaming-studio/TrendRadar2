@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T06:27:13.742527+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2026-03-27T07:31:08.639429+08:00",
+  "total_titles_processed": 694,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://wallstreetcn.com/articles/3768419",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时31分]"
         },
         {
           "title": "谷歌母公司Alphabet跌幅迅速扩大至4.3%。",
@@ -89,8 +90,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 07时31分]"
         },
         {
           "title": "OpenAI来自ChatGPT广告业务试点获得的年化收入超过1亿美元。（The Information）",

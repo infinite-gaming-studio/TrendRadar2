@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T16:51:31.807360+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2026-03-26T17:58:54.434073+08:00",
+  "total_titles_processed": 1432,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时42分 ~ 16时51分]"
+          "appearance_count": 6,
+          "time_info": "[07时42分 ~ 17时58分]"
         },
         {
           "title": "谷歌在青少年社交媒体成瘾案中被判定负有责任。",
@@ -47,11 +48,25 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时03分 ~ 17时58分]"
+        },
+        {
+          "title": "谷歌突破性算法震惊硅谷 华尔街激辩：内存需求要降温了？",
+          "url": "https://www.cls.cn/detail/2325322",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时03分 ~ 16时51分]"
+          "time_info": "[15时15分 ~ 17时58分]"
         },
         {
           "title": "META和谷歌在社交媒体成瘾案中被认为负有责任。",
@@ -65,18 +80,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时56分 ~ 03时45分]"
-        },
-        {
-          "title": "谷歌突破性算法震惊硅谷 华尔街激辩：内存需求要降温了？",
-          "url": "https://www.cls.cn/detail/2325322",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时15分 ~ 16时51分]"
         },
         {
           "title": "谷歌发言人：（就社交媒体成瘾案判决结果）我方不认同此判决，计划提起上诉。",
@@ -116,11 +119,12 @@
             15,
             13,
             12,
-            17
+            17,
+            11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时09分 ~ 16时51分]"
+          "appearance_count": 15,
+          "time_info": "[00时09分 ~ 17时58分]"
         },
         {
           "title": "OpenAI推出安全漏洞赏金计划。",

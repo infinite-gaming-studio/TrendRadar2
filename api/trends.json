@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T18:44:34.548834+08:00",
-  "total_titles_processed": 1552,
+  "generated_at": "2026-03-27T19:40:17.970814+08:00",
+  "total_titles_processed": 1655,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时03分 ~ 18时44分]"
+          "appearance_count": 7,
+          "time_info": "[10时03分 ~ 19时40分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -52,11 +52,12 @@
           "ranks": [
             9,
             5,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时05分 ~ 18时44分]"
+          "appearance_count": 6,
+          "time_info": "[13时05分 ~ 19时40分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -69,8 +70,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时22分 ~ 18时44分]"
+          "appearance_count": 5,
+          "time_info": "[15时22分 ~ 19时40分]"
         },
         {
           "title": "谷歌新算法掀起“存储热降温恐慌” 华尔街分析师却不慌",

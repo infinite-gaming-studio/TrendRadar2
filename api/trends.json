@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T13:05:24.253871+08:00",
-  "total_titles_processed": 1061,
+  "generated_at": "2026-03-27T15:22:44.927915+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -36,22 +36,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            3
+            3,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 13时05分]"
+          "appearance_count": 3,
+          "time_info": "[10时03分 ~ 15时22分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时05分 ~ 15时22分]"
         },
         {
           "title": "谷歌母公司Alphabet跌幅迅速扩大至4.3%。",
@@ -63,6 +65,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "谷歌TurboQuant论文解读",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "谷歌公司Fiber更名为GFiber。",
@@ -157,7 +170,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         }
@@ -165,7 +178,7 @@
     },
     {
       "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "财政部副部长廖岷会见哈佛大学教授艾利森",
@@ -177,6 +190,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "网传中科大一少年班同学课上往黑板扔水杯，如何评价其行为以及教授的处理方式？",
+          "url": "https://www.zhihu.com/question/2020511540806254722",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "财政部廖岷会见哈佛大学教授艾利森",

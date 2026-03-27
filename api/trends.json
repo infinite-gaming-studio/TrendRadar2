@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T16:46:55.169939+08:00",
-  "total_titles_processed": 1328,
+  "generated_at": "2026-03-27T17:52:37.630473+08:00",
+  "total_titles_processed": 1452,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时03分 ~ 16时46分]"
+          "appearance_count": 5,
+          "time_info": "[10时03分 ~ 17时52分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -53,8 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时05分 ~ 16时46分]"
+          "appearance_count": 4,
+          "time_info": "[13时05分 ~ 17时52分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -62,11 +62,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            7
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 17时52分]"
+        },
+        {
+          "title": "谷歌新算法掀起“存储热降温恐慌” 华尔街分析师却不慌",
+          "url": "https://www.cls.cn/detail/2326397",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时22分 ~ 16时46分]"
+          "time_info": "[16时46分 ~ 17时52分]"
         },
         {
           "title": "3月27日投资避雷针：谷歌推出压缩算法TurboQuant 美股存储板块遭重挫",
@@ -75,7 +88,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         },
@@ -89,17 +102,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
-        },
-        {
-          "title": "谷歌新算法掀起“存储热降温恐慌” 华尔街分析师却不慌",
-          "url": "https://www.cls.cn/detail/2326397",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时46分"
         },
         {
           "title": "谷歌公司Fiber更名为GFiber。",

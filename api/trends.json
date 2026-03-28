@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T22:29:56.938124+08:00",
-  "total_titles_processed": 1581,
+  "generated_at": "2026-03-28T23:28:29.033294+08:00",
+  "total_titles_processed": 1655,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时52分 ~ 22时29分]"
+          "appearance_count": 24,
+          "time_info": "[00时52分 ~ 23时28分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -57,8 +57,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时52分 ~ 22时29分]"
+          "appearance_count": 24,
+          "time_info": "[00时52分 ~ 23时28分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -76,11 +76,12 @@
             23,
             27,
             26,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时52分 ~ 22时29分]"
+          "appearance_count": 24,
+          "time_info": "[00时52分 ~ 23时28分]"
         },
         {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
@@ -134,11 +135,12 @@
             14,
             12,
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时43分 ~ 22时29分]"
+          "appearance_count": 11,
+          "time_info": "[15时43分 ~ 23时28分]"
         }
       ]
     }

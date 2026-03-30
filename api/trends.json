@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T15:23:53.777849+08:00",
-  "total_titles_processed": 1052,
+  "generated_at": "2026-03-30T17:08:56.062165+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             14,
             16,
             22,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 15时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 17时08分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -31,17 +32,18 @@
             24,
             22,
             21,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 15时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 17时08分]"
         }
       ]
     },
     {
       "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "复旦教授解析AI冲击职场真相",
@@ -53,6 +55,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时21分 ~ 13时22分]"
+        },
+        {
+          "title": "哈佛教授：人民币将在5年内成储备货币",
+          "url": "https://www.baidu.com/s?wd=%E5%93%88%E4%BD%9B%E6%95%99%E6%8E%88%EF%BC%9A%E4%BA%BA%E6%B0%91%E5%B8%81%E5%B0%86%E5%9C%A85%E5%B9%B4%E5%86%85%E6%88%90%E5%82%A8%E5%A4%87%E8%B4%A7%E5%B8%81",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         }
       ]
     }

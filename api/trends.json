@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T01:53:11.655081+08:00",
-  "total_titles_processed": 370,
+  "generated_at": "2026-03-31T02:56:49.841067+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.toutiao.com/trending/7622603024216932388/",
           "source": "今日头条",
           "ranks": [
-            20
+            20,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 01时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时56分]"
         },
         {
           "title": "复旦教授解析AI冲击职场真相",
@@ -41,11 +42,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 01时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时56分]"
         }
       ]
     }

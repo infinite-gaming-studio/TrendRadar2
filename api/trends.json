@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T00:54:06.398045+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-03-31T01:53:11.655081+08:00",
+  "total_titles_processed": 370,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,22 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "复旦教授解析AI冲击职场真相",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E8%A7%A3%E6%9E%90AI%E5%86%B2%E5%87%BB%E8%81%8C%E5%9C%BA%E7%9C%9F%E7%9B%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 00时54分]"
-        },
-        {
           "title": "哈佛教授：人民币将在5年内成储备货币",
           "url": "https://www.toutiao.com/trending/7622603024216932388/",
           "source": "今日头条",
           "ranks": [
             20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 01时53分]"
+        },
+        {
+          "title": "复旦教授解析AI冲击职场真相",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E8%A7%A3%E6%9E%90AI%E5%86%B2%E5%87%BB%E8%81%8C%E5%9C%BA%E7%9C%9F%E7%9B%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -40,11 +40,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
           "source": "bilibili 热搜",
           "ranks": [
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 00时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 01时53分]"
         }
       ]
     }

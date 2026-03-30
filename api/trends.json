@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T05:40:00.969725+08:00",
-  "total_titles_processed": 570,
+  "generated_at": "2026-03-31T06:33:07.377408+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
@@ -18,19 +18,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 05时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 06时33分]"
         },
         {
           "title": "复旦教授解析AI冲击职场真相",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E8%A7%A3%E6%9E%90AI%E5%86%B2%E5%87%BB%E8%81%8C%E5%9C%BA%E7%9C%9F%E7%9B%B8",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 03时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 06时33分]"
         }
       ]
     },
@@ -48,11 +49,12 @@
             21,
             20,
             14,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 05时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 06时33分]"
         }
       ]
     }

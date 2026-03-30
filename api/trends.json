@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T10:08:51.832726+08:00",
-  "total_titles_processed": 730,
+  "generated_at": "2026-03-30T13:22:07.485896+08:00",
+  "total_titles_processed": 917,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             12,
             14,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 10时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 13时22分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -28,11 +29,29 @@
             29,
             24,
             22,
-            21
+            21,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 10时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 13时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "東京大学 化学専攻 教授",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "复旦教授解析AI冲击职场真相",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E8%A7%A3%E6%9E%90AI%E5%86%B2%E5%87%BB%E8%81%8C%E5%9C%BA%E7%9C%9F%E7%9B%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
         }
       ]
     }

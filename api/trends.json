@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T07:32:06.877995+08:00",
-  "total_titles_processed": 719,
+  "generated_at": "2026-04-01T10:13:10.178089+08:00",
+  "total_titles_processed": 899,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI完成1220亿美元融资，估值达8520亿美元",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时40分 ~ 05时37分]"
+        },
+        {
+          "title": "OpenAI完成1220亿美元融资 美法官叫停白宫宴会厅改造项目 | 环球市场",
+          "url": "https://www.cls.cn/detail/2331334",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
         },
         {
           "title": "OpenAI按8520亿美元估值完成本轮1220亿美元规模的融资",

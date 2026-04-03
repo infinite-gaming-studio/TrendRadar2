@@ -1,122 +1,22 @@
 {
-  "generated_at": "2026-04-03T23:37:51.635699+08:00",
-  "total_titles_processed": 1922,
+  "generated_at": "2026-04-04T00:37:27.124080+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "谷歌官方发布最新模型Gemma4",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
           "source": "bilibili 热搜",
           "ranks": [
-            10,
-            4,
-            16,
-            19,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时49分 ~ 23时37分]"
-        },
-        {
-          "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
-          "url": "https://www.zhihu.com/question/2023204569811828949",
-          "source": "知乎",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 15时04分]"
-        },
-        {
-          "title": "谷歌最新模型Gemma4发布",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 13时02分]"
-        },
-        {
-          "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
-          "url": "https://wallstreetcn.com/livenews/3081712",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 02时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI收购科技行业脱口秀TBPN。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3081739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 03时49分]"
-        },
-        {
-          "title": "市场消息：OpenAI收购TBPN。",
-          "url": "https://flash.jin10.com/detail/20260403012712890800",
-          "source": "金十数据",
-          "ranks": [
-            1,
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时53分]"
-        },
-        {
-          "title": "OpenAI：将ChatGPT企业版的年订阅价格从每用户25美元降至20美元。",
-          "url": "https://flash.jin10.com/detail/20260403014329436800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "清华教授呼吁逐步放开禁限摩",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E6%95%99%E6%8E%88%E5%91%BC%E5%90%81%E9%80%90%E6%AD%A5%E6%94%BE%E5%BC%80%E7%A6%81%E9%99%90%E6%91%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 15时04分]"
+          "time_info": "00时37分"
         }
       ]
     }

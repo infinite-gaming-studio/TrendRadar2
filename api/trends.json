@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T18:40:31.415641+08:00",
-  "total_titles_processed": 1472,
+  "generated_at": "2026-04-03T19:36:31.767185+08:00",
+  "total_titles_processed": 1574,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            4
+            4,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时49分 ~ 18时40分]"
+          "appearance_count": 5,
+          "time_info": "[16时49分 ~ 19时36分]"
         },
         {
           "title": "谷歌最新模型Gemma4发布",

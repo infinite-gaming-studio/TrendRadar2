@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T19:45:51.842458+08:00",
-  "total_titles_processed": 1259,
+  "generated_at": "2026-04-06T21:03:49.497093+08:00",
+  "total_titles_processed": 1348,
   "failed_sources": [],
   "trends": [
     {
@@ -49,7 +49,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         }
@@ -78,6 +78,19 @@
         },
         {
           "title": "伊朗5名教授60多名大学生遭袭身亡",
+          "url": "https://www.toutiao.com/trending/7624467622647169033/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时25分 ~ 21时03分]"
+        },
+        {
+          "title": "伊朗5名教授60多名大学生遭袭身亡",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%975%E5%90%8D%E6%95%99%E6%8E%8860%E5%A4%9A%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%81%AD%E8%A2%AD%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
@@ -88,18 +101,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时21分 ~ 17时06分]"
-        },
-        {
-          "title": "伊朗5名教授60多名大学生遭袭身亡",
-          "url": "https://www.toutiao.com/trending/7624467622647169033/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时25分 ~ 19时45分]"
         }
       ]
     },

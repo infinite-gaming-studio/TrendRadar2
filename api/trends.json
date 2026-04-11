@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T15:05:52.636551+08:00",
-  "total_titles_processed": 1029,
+  "generated_at": "2026-04-11T16:40:25.511356+08:00",
+  "total_titles_processed": 1114,
   "failed_sources": [],
   "trends": [
     {
@@ -62,11 +62,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时58分 ~ 15时05分]"
+          "appearance_count": 4,
+          "time_info": "[13时58分 ~ 16时40分]"
         },
         {
           "title": "OpenAI：在第三方安全事件中，密码和OpenAI API密钥未受影响。",

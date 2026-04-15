@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T19:56:15.615145+08:00",
-  "total_titles_processed": 1585,
+  "generated_at": "2026-04-15T21:18:58.015767+08:00",
+  "total_titles_processed": 1703,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美国法官：OpenAI高管Assailant将因袭击CEO Altman而被继续羁押，对其提讯被推后至5月5日。（彭博法律BLAW）",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "OpenAI 开撕 Anthropic 称 300 亿收入有 80 亿是造假，如何看待当前两家 AI 巨头的竞争？",
+          "url": "https://www.zhihu.com/question/2027692500500969204",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         },
         {
           "title": "纳斯达克网络安全ETF收跌0.63%，ETFMG网络安全ETF跌1.08%，整体高开低走，OpenAI发布网络AI模型后跌幅略微收窄。",
@@ -103,11 +114,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时56分 ~ 19时56分]"
+          "appearance_count": 4,
+          "time_info": "[18时56分 ~ 21时18分]"
         },
         {
           "title": "哈佛教授罗格夫：美元被高估至少20%，伊朗战争结束预期“太天真”",

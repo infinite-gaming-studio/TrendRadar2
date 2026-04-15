@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T13:21:53.421239+08:00",
-  "total_titles_processed": 1031,
+  "generated_at": "2026-04-15T15:27:54.967949+08:00",
+  "total_titles_processed": 1177,
   "failed_sources": [],
   "trends": [
     {
@@ -99,6 +99,17 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "如何看待同济大学王教授的百万经费 Nature 论文被指数据造假？",
+          "url": "https://www.zhihu.com/question/2025756646962468381",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时08分 ~ 15时27分]"
+        },
+        {
           "title": "教育部发布通知，要求严禁幼儿园提前教授小学阶段课程内容，这一规定有何影响？",
           "url": "https://www.zhihu.com/question/2020902613164537309",
           "source": "知乎",
@@ -112,17 +123,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时06分 ~ 07时40分]"
-        },
-        {
-          "title": "如何看待同济大学王教授的百万经费 Nature 论文被指数据造假？",
-          "url": "https://www.zhihu.com/question/2025756646962468381",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 13时21分]"
         }
       ]
     }

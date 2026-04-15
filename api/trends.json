@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T18:57:08.785366+08:00",
-  "total_titles_processed": 1477,
+  "generated_at": "2026-04-15T19:56:15.615145+08:00",
+  "total_titles_processed": 1585,
   "failed_sources": [],
   "trends": [
     {
@@ -75,11 +75,12 @@
           "url": "https://www.zhihu.com/question/2025756646962468381",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时08分 ~ 18时57分]"
+          "appearance_count": 7,
+          "time_info": "[10时08分 ~ 19时56分]"
         },
         {
           "title": "教育部发布通知，要求严禁幼儿园提前教授小学阶段课程内容，这一规定有何影响？",
@@ -101,11 +102,12 @@
           "url": "https://www.zhihu.com/question/2027671656424829523",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时56分 ~ 18时57分]"
+          "appearance_count": 3,
+          "time_info": "[18时56分 ~ 19时56分]"
         },
         {
           "title": "哈佛教授罗格夫：美元被高估至少20%，伊朗战争结束预期“太天真”",
@@ -125,7 +127,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
         }

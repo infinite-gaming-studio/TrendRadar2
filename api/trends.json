@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T21:18:58.015767+08:00",
-  "total_titles_processed": 1703,
+  "generated_at": "2026-04-15T23:04:42.064041+08:00",
+  "total_titles_processed": 1839,
   "failed_sources": [],
   "trends": [
     {
@@ -49,7 +49,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -94,6 +94,19 @@
           "time_info": "[10时08分 ~ 19时56分]"
         },
         {
+          "title": "同济大学王教授被举报学术造假，为什么饶毅建议他「千万不要认错」？",
+          "url": "https://www.zhihu.com/question/2027671656424829523",
+          "source": "知乎",
+          "ranks": [
+            8,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时56分 ~ 23时04分]"
+        },
+        {
           "title": "教育部发布通知，要求严禁幼儿园提前教授小学阶段课程内容，这一规定有何影响？",
           "url": "https://www.zhihu.com/question/2020902613164537309",
           "source": "知乎",
@@ -107,19 +120,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时06分 ~ 07时40分]"
-        },
-        {
-          "title": "同济大学王教授被举报学术造假，为什么饶毅建议他「千万不要认错」？",
-          "url": "https://www.zhihu.com/question/2027671656424829523",
-          "source": "知乎",
-          "ranks": [
-            8,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时56分 ~ 21时18分]"
         },
         {
           "title": "哈佛教授罗格夫：美元被高估至少20%，伊朗战争结束预期“太天真”",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T06:39:38.597746+08:00",
-  "total_titles_processed": 576,
+  "generated_at": "2026-04-16T07:40:09.173008+08:00",
+  "total_titles_processed": 629,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 06时39分]"
+          "appearance_count": 3,
+          "time_info": "[05时49分 ~ 07时40分]"
         },
         {
           "title": "谷歌公司：Gemini现在上架苹果公司Mac。",
@@ -53,11 +54,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 06时39分]"
+          "appearance_count": 3,
+          "time_info": "[05时49分 ~ 07时40分]"
         }
       ]
     },
@@ -73,11 +75,12 @@
             1,
             2,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时39分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 07时40分]"
         }
       ]
     }

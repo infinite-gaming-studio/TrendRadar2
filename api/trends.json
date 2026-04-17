@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T13:26:04.370902+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2026-04-17T15:28:29.340187+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时12分 ~ 13时26分]"
+          "appearance_count": 4,
+          "time_info": "[10时12分 ~ 15时28分]"
         },
         {
           "title": "OpenAI发布Codex更新",

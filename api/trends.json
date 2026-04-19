@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T22:47:15.096322+08:00",
-  "total_titles_processed": 1341,
+  "generated_at": "2026-04-19T23:35:52.288450+08:00",
+  "total_titles_processed": 1376,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时47分]"
+          "appearance_count": 3,
+          "time_info": "[21时59分 ~ 23时35分]"
         },
         {
           "title": "谷歌公司与迈威尔科技洽谈打造新款AI芯片。（The Information）",
@@ -25,11 +26,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时47分]"
+          "appearance_count": 3,
+          "time_info": "[21时59分 ~ 23时35分]"
         }
       ]
     }

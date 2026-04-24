@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-24T13:32:40.338949+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2026-04-24T15:58:42.239838+08:00",
+  "total_titles_processed": 1183,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 9,
       "titles": [
+        {
+          "title": "OpenAI深夜王炸！GPT-5.5正式发布：更会编程和使用计算机的最强模型",
+          "url": "https://www.cls.cn/detail/2354272",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 15时58分]"
+        },
         {
           "title": "如何评价 OpenAI 最新发布的 GPT-5.5 模型？",
           "url": "https://www.zhihu.com/question/2030834616181970293",
@@ -28,17 +40,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时23分 ~ 10时24分]"
-        },
-        {
-          "title": "OpenAI深夜王炸！GPT-5.5正式发布：更会编程和使用计算机的最强模型",
-          "url": "https://www.cls.cn/detail/2354272",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
         },
         {
           "title": "微软：OpenAI的GPT-5.5将于明天在微软Foundry正式发布。",
@@ -105,6 +106,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据日经新闻：谷歌将竞标软银在俄亥俄州的数据中心使用权。",
+          "url": "https://flash.jin10.com/detail/20260424153616706800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         }
       ]
     }

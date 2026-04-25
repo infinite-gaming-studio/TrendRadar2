@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T17:51:15.598868+08:00",
-  "total_titles_processed": 1118,
+  "generated_at": "2026-04-25T18:41:23.320566+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时09分 ~ 17时51分]"
+          "appearance_count": 7,
+          "time_info": "[13时09分 ~ 18时41分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：就Coinbase与Gemini的行为起诉美国纽约。 （纽约）对“合约市场”监管过多。 纽约在预测市场领域的执法走得太远。（彭博法律Blaw）",
@@ -134,11 +134,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时49分 ~ 17时51分]"
+          "appearance_count": 3,
+          "time_info": "[16时49分 ~ 18时41分]"
         },
         {
           "title": "黄仁勋要求英伟达所有员工用OpenAI",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T18:53:04.360986+08:00",
-  "total_titles_processed": 1316,
+  "generated_at": "2026-04-30T20:13:48.279434+08:00",
+  "total_titles_processed": 1429,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时56分 ~ 18时53分]"
+          "appearance_count": 6,
+          "time_info": "[13时56分 ~ 20时13分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -29,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时38分 ~ 18时53分]"
+          "appearance_count": 8,
+          "time_info": "[10时38分 ~ 20时13分]"
         },
         {
           "title": "谷歌财报电话会将于十分钟后举行。",
@@ -81,11 +81,12 @@
           "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E5%85%A5%E9%A9%BB%E5%B9%BF%E5%B7%9E%E7%8F%A0%E6%B1%9F%E6%96%B0%E5%9F%8E&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 18时53分]"
+          "appearance_count": 3,
+          "time_info": "[18时52分 ~ 20时13分]"
         },
         {
           "title": "Alphabet(GOOGL.O)：第一季度谷歌云收入为200.3亿美元。",

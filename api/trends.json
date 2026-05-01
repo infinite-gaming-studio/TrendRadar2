@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T19:57:59.082603+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2026-05-01T21:18:48.185968+08:00",
+  "total_titles_processed": 1454,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时52分 ~ 19时57分]"
+          "appearance_count": 9,
+          "time_info": "[06时52分 ~ 21时18分]"
         },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -39,11 +39,12 @@
           "ranks": [
             11,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时52分 ~ 19时57分]"
+          "appearance_count": 9,
+          "time_info": "[06时52分 ~ 21时18分]"
         },
         {
           "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
@@ -79,8 +80,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时58分 ~ 19时57分]"
+          "appearance_count": 5,
+          "time_info": "[16时58分 ~ 21时18分]"
         },
         {
           "title": "美股四大科技巨头「谷歌、微软、亚马逊、 Meta」2026 年 Q1 财报同时出炉，如何解析？",
@@ -158,7 +159,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
         }
@@ -238,8 +239,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时14分 ~ 19时57分]"
+          "appearance_count": 6,
+          "time_info": "[14时14分 ~ 21时18分]"
         }
       ]
     }

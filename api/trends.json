@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T16:59:04.256642+08:00",
-  "total_titles_processed": 1115,
+  "generated_at": "2026-05-01T18:25:40.867401+08:00",
+  "total_titles_processed": 1216,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时52分 ~ 16时59分]"
+          "appearance_count": 7,
+          "time_info": "[06时52分 ~ 18时25分]"
         },
         {
           "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
@@ -54,8 +54,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时52分 ~ 16时59分]"
+          "appearance_count": 7,
+          "time_info": "[06时52分 ~ 18时25分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -83,6 +83,18 @@
           "time_info": "[10时45分 ~ 16时59分]"
         },
         {
+          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
+          "url": "https://wallstreetcn.com/articles/3771450",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时58分 ~ 18时25分]"
+        },
+        {
           "title": "科技巨头财报大比拼，为什么只有谷歌赢了？",
           "url": "https://wallstreetcn.com/articles/3771342",
           "source": "华尔街见闻",
@@ -93,17 +105,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时52分 ~ 10时45分]"
-        },
-        {
-          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
-          "url": "https://wallstreetcn.com/articles/3771450",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时58分 ~ 16时59分]"
         },
         {
           "title": "谷歌母公司Alphabet涨幅扩大至10%，创最近逾一年来最大盘中涨幅。",
@@ -225,8 +226,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时14分 ~ 16时59分]"
+          "appearance_count": 4,
+          "time_info": "[14时14分 ~ 18时25分]"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T07:51:24.731604+08:00",
-  "total_titles_processed": 623,
+  "generated_at": "2026-05-01T10:45:19.926976+08:00",
+  "total_titles_processed": 780,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -29,8 +29,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时17分 ~ 07时51分]"
+          "appearance_count": 10,
+          "time_info": "[01时17分 ~ 10时45分]"
+        },
+        {
+          "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
+          "url": "https://wallstreetcn.com/articles/3771356",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时52分 ~ 10时45分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -45,28 +57,17 @@
           "time_info": "[01时17分 ~ 05时56分]"
         },
         {
-          "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
-          "url": "https://wallstreetcn.com/articles/3771356",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 07时51分]"
-        },
-        {
           "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
           "url": "https://www.cls.cn/detail/2361634",
           "source": "财联社热门",
           "ranks": [
             11,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 07时51分]"
+          "appearance_count": 3,
+          "time_info": "[06时52分 ~ 10时45分]"
         },
         {
           "title": "科技巨头财报大比拼，为什么只有谷歌赢了？",
@@ -77,8 +78,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 07时51分]"
+          "appearance_count": 3,
+          "time_info": "[06时52分 ~ 10时45分]"
+        },
+        {
+          "title": "美股四大科技巨头「谷歌、微软、亚马逊、 Meta」2026 年 Q1 财报同时出炉，如何解析？",
+          "url": "https://www.zhihu.com/question/2033115543276930640",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "谷歌母公司Alphabet涨幅扩大至10%，创最近逾一年来最大盘中涨幅。",
@@ -128,7 +140,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI 被曝联手联发科、高通开发手机芯片，高通涨逾 10%，这对 AI 手机市场来说意味着什么？",
@@ -140,6 +152,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 01时18分]"
+        },
+        {
+          "title": "OpenAI CFO回应未达目标质疑：需求依然强劲",
+          "url": "https://flash.jin10.com/detail/20260501100005491800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "4月30日，马斯克重返证人席，接受OpenAI律师反询问。",

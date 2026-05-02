@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T19:42:56.604942+08:00",
-  "total_titles_processed": 1261,
+  "generated_at": "2026-05-02T21:03:50.665868+08:00",
+  "total_titles_processed": 1364,
   "failed_sources": [],
   "trends": [
     {
@@ -128,6 +128,17 @@
           "time_info": "[13时34分 ~ 15时33分]"
         },
         {
+          "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
+          "url": "https://news.ifeng.com/c/8snnwdxDs8v",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 21时03分]"
+        },
+        {
           "title": "OpenAI：人工智能在一个月内从编写20%的代码提升至80%。",
           "url": "https://flash.jin10.com/detail/20260502172401507800",
           "source": "金十数据",
@@ -138,17 +149,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时49分 ~ 19时42分]"
-        },
-        {
-          "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
-          "url": "https://news.ifeng.com/c/8snnwdxDs8v",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
         }
       ]
     },
@@ -164,11 +164,12 @@
             2,
             11,
             12,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时55分 ~ 19时42分]"
+          "appearance_count": 17,
+          "time_info": "[00时55分 ~ 21时03分]"
         }
       ]
     }

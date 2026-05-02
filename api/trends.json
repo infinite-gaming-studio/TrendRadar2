@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T15:33:24.289243+08:00",
-  "total_titles_processed": 1005,
+  "generated_at": "2026-05-02T17:03:50.619984+08:00",
+  "total_titles_processed": 1099,
   "failed_sources": [],
   "trends": [
     {
@@ -103,6 +103,18 @@
           "time_info": "[13时34分 ~ 15时33分]"
         },
         {
+          "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
+          "url": "https://wallstreetcn.com/articles/3771463",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时34分 ~ 17时03分]"
+        },
+        {
           "title": "OpenAI 称 GPT-5.5 中「哥布林」泛滥是奖励机制所致，这反映了大模型训练的哪些难题？",
           "url": "https://www.zhihu.com/question/2033267772931749457",
           "source": "知乎",
@@ -110,19 +122,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时34分 ~ 15时33分]"
-        },
-        {
-          "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
-          "url": "https://wallstreetcn.com/articles/3771463",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时34分 ~ 15时33分]"
+          "appearance_count": 4,
+          "time_info": "[13时34分 ~ 17时03分]"
         }
       ]
     },
@@ -137,11 +138,12 @@
           "ranks": [
             2,
             11,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时55分 ~ 15时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时55分 ~ 17时03分]"
         }
       ]
     }

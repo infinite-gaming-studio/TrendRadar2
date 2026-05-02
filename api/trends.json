@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T02:55:47.998999+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2026-05-03T03:54:07.824319+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 02时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 03时54分]"
         },
         {
           "title": "马斯克手撕OpenAI为哪般",
@@ -44,8 +44,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 02时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 03时54分]"
         },
         {
           "title": "北大教授批《周处》,杀邪教太暴力",
@@ -55,8 +55,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 02时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 03时54分]"
         }
       ]
     }

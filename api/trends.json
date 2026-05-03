@@ -1,8 +1,62 @@
 {
-  "generated_at": "2026-05-03T10:37:14.025038+08:00",
-  "total_titles_processed": 652,
+  "generated_at": "2026-05-03T13:56:31.527319+08:00",
+  "total_titles_processed": 792,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "東京大学 化学専攻 教授",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "北大教授陈平原悼念宇文所安：一位有宏阔视野与诗心的汉学家",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33092580",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时42分 ~ 13时56分]"
+        },
+        {
+          "title": "北大教授批《周处》,杀邪教太暴力",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353931&amp;topic_name=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E6%89%B9%E3%80%8A%E5%91%A8%E5%A4%84%E3%80%8B%2C%E6%9D%80%E9%82%AA%E6%95%99%E5%A4%AA%E6%9A%B4%E5%8A%9B",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时42分 ~ 13时56分]"
+        },
+        {
+          "title": "石河子大学副教授孔苑苑病逝",
+          "url": "https://www.toutiao.com/trending/7635403565384826918/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
+          "title": "大学教授奋不顾身营救至亲 溺水去世",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E5%A5%8B%E4%B8%8D%E9%A1%BE%E8%BA%AB%E8%90%A5%E6%95%91%E8%87%B3%E4%BA%B2+%E6%BA%BA%E6%B0%B4%E5%8E%BB%E4%B8%96",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
@@ -43,36 +97,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "北大教授陈平原悼念宇文所安：一位有宏阔视野与诗心的汉学家",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33092580",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时42分 ~ 10时37分]"
-        },
-        {
-          "title": "北大教授批《周处》,杀邪教太暴力",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353931&amp;topic_name=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E6%89%B9%E3%80%8A%E5%91%A8%E5%A4%84%E3%80%8B%2C%E6%9D%80%E9%82%AA%E6%95%99%E5%A4%AA%E6%9A%B4%E5%8A%9B",
-          "source": "贴吧",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时42分 ~ 10时37分]"
         }
       ]
     }

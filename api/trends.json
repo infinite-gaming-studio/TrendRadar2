@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T07:41:51.287446+08:00",
-  "total_titles_processed": 518,
+  "generated_at": "2026-05-04T10:35:03.685165+08:00",
+  "total_titles_processed": 698,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "北大教授批《周处》,杀邪教太暴力",
@@ -15,8 +15,19 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 07时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时44分 ~ 10时35分]"
+        },
+        {
+          "title": "南京大学教授莫砺锋称文科的用处在于「无用之用」，如何理解这一观点？",
+          "url": "https://www.zhihu.com/question/2032947224464843217",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
         }
       ]
     }

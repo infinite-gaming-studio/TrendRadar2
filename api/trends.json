@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T14:10:25.433668+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2026-05-04T17:16:01.760522+08:00",
+  "total_titles_processed": 1044,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "北大教授批《周处》,杀邪教太暴力",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时44分 ~ 10时35分]"
+        },
+        {
+          "title": "39 岁上海科技大学教授王晨辉为救至亲溺水去世，他的离去带给我们怎样的触动？遇到有人溺水该怎么做？",
+          "url": "https://www.zhihu.com/question/2034260292213945927",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 17时16分]"
         },
         {
           "title": "南京大学教授莫砺锋称文科的用处在于「无用之用」，如何理解这一观点？",
@@ -36,7 +47,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         }

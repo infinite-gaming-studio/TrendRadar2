@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T07:52:52.620706+08:00",
-  "total_titles_processed": 694,
+  "generated_at": "2026-05-05T10:30:02.465425+08:00",
+  "total_titles_processed": 844,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 07时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 10时30分]"
         },
         {
           "title": "OpenAI联合创始人兼总裁格雷格·布罗克曼表示，他在OpenAI的持股目前价值接近300亿美元，使其成为持股规模较大的个人股东之一。",
@@ -53,11 +53,12 @@
           "ranks": [
             11,
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 07时52分]"
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 10时30分]"
         }
       ]
     }

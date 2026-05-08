@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T19:10:30.228733+08:00",
-  "total_titles_processed": 1399,
+  "generated_at": "2026-05-08T21:27:36.954646+08:00",
+  "total_titles_processed": 1556,
   "failed_sources": [],
   "trends": [
     {
@@ -139,11 +139,12 @@
             9,
             11,
             18,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时26分 ~ 19时10分]"
+          "appearance_count": 8,
+          "time_info": "[11时26分 ~ 21时27分]"
         },
         {
           "title": "武汉大学教授柯涛逝世 终年48岁",

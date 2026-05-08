@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T21:27:36.954646+08:00",
-  "total_titles_processed": 1556,
+  "generated_at": "2026-05-08T23:21:05.573527+08:00",
+  "total_titles_processed": 1712,
   "failed_sources": [],
   "trends": [
     {
@@ -119,6 +119,23 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "北大教授秀谬论,尬吹西方保障",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354080&amp;topic_name=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E7%A7%80%E8%B0%AC%E8%AE%BA%2C%E5%B0%AC%E5%90%B9%E8%A5%BF%E6%96%B9%E4%BF%9D%E9%9A%9C",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            9,
+            11,
+            18,
+            19,
+            21,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时26分 ~ 23时21分]"
+        },
+        {
           "title": "人大教授：美伊双方靠军事冲突争取谈判筹码",
           "url": "https://news.ifeng.com/c/8sxBoOuQyVj",
           "source": "凤凰网",
@@ -129,22 +146,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时26分 ~ 19时10分]"
-        },
-        {
-          "title": "北大教授秀谬论,尬吹西方保障",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354080&amp;topic_name=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E7%A7%80%E8%B0%AC%E8%AE%BA%2C%E5%B0%AC%E5%90%B9%E8%A5%BF%E6%96%B9%E4%BF%9D%E9%9A%9C",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            9,
-            11,
-            18,
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时26分 ~ 21时27分]"
         },
         {
           "title": "武汉大学教授柯涛逝世 终年48岁",

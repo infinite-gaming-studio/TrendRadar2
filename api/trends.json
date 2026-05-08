@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T11:27:05.647003+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2026-05-08T13:55:24.400526+08:00",
+  "total_titles_processed": 987,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时21分 ~ 11时27分]"
+          "appearance_count": 11,
+          "time_info": "[02时21分 ~ 13时55分]"
+        },
+        {
+          "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
+          "url": "https://www.cls.cn/detail/2365554",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 13时55分]"
         },
         {
           "title": "OpenAI发布三款实时音频模型",
@@ -27,17 +39,6 @@
           "source": "bilibili 热搜",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
-        },
-        {
-          "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
-          "url": "https://www.cls.cn/detail/2365554",
-          "source": "财联社热门",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -105,28 +106,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "武汉大学教授柯涛逝世 终年48岁",
-          "url": "https://www.toutiao.com/trending/7637284558564114474/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
-        },
-        {
-          "title": "北大教授秀谬论,尬吹西方保障",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354080&amp;topic_name=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E7%A7%80%E8%B0%AC%E8%AE%BA%2C%E5%B0%AC%E5%90%B9%E8%A5%BF%E6%96%B9%E4%BF%9D%E9%9A%9C",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
-        },
-        {
           "title": "人大教授：美伊双方靠军事冲突争取谈判筹码",
           "url": "https://news.ifeng.com/c/8sxBoOuQyVj",
           "source": "凤凰网",
@@ -134,8 +113,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 13时55分]"
+        },
+        {
+          "title": "武汉大学教授柯涛逝世 终年48岁",
+          "url": "https://www.toutiao.com/trending/7637284558564114474/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 13时55分]"
+        },
+        {
+          "title": "北大教授秀谬论,尬吹西方保障",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354080&amp;topic_name=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E7%A7%80%E8%B0%AC%E8%AE%BA%2C%E5%B0%AC%E5%90%B9%E8%A5%BF%E6%96%B9%E4%BF%9D%E9%9A%9C",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 13时55分]"
         },
         {
           "title": "武大48岁教授柯涛病逝",

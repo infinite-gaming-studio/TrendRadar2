@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T17:16:43.608007+08:00",
-  "total_titles_processed": 1259,
+  "generated_at": "2026-05-08T19:10:30.228733+08:00",
+  "total_titles_processed": 1399,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时21分 ~ 17时16分]"
+          "appearance_count": 14,
+          "time_info": "[02时21分 ~ 19时10分]"
         },
         {
           "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
@@ -123,11 +123,12 @@
           "url": "https://news.ifeng.com/c/8sxBoOuQyVj",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时26分 ~ 17时16分]"
+          "appearance_count": 6,
+          "time_info": "[11时26分 ~ 19时10分]"
         },
         {
           "title": "北大教授秀谬论,尬吹西方保障",
@@ -137,11 +138,12 @@
             4,
             9,
             11,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时26分 ~ 17时16分]"
+          "appearance_count": 6,
+          "time_info": "[11时26分 ~ 19时10分]"
         },
         {
           "title": "武汉大学教授柯涛逝世 终年48岁",

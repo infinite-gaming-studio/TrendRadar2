@@ -1,155 +1,44 @@
 {
-  "generated_at": "2026-05-09T23:48:56.321298+08:00",
-  "total_titles_processed": 1473,
+  "generated_at": "2026-05-10T00:52:24.364800+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "谷歌旗下Isomorphic Labs将筹集超20亿美元新资金",
-          "url": "https://flash.jin10.com/detail/20260509030041580800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "谷歌(GOOG.O)旗下的Isomorphic Labs将筹集超过20亿美元的新资金。",
-          "url": "https://flash.jin10.com/detail/20260509024606066800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "AMD收涨超11%，今年股价已经翻倍，苹果收涨2%，谷歌A涨0.7%",
-          "url": "https://wallstreetcn.com/livenews/3100943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 08时03分]"
-        },
-        {
-          "title": "谷歌旗下Isomorphic Labs拟在新一轮融资中筹集逾20亿美元",
-          "url": "https://wallstreetcn.com/livenews/3100893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
-          "url": "https://www.cls.cn/detail/2366815",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时17分 ~ 23时48分]"
-        },
         {
           "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
           "url": "https://wallstreetcn.com/articles/3771878",
           "source": "华尔街见闻",
           "ranks": [
-            10,
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时17分 ~ 23时48分]"
+          "appearance_count": 1,
+          "time_info": "00时52分"
         },
         {
-          "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
-          "url": "https://www.cls.cn/detail/2366733",
+          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
+          "url": "https://www.cls.cn/detail/2366815",
           "source": "财联社热门",
           "ranks": [
-            12,
-            11,
-            13
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时08分 ~ 21时11分]"
+          "appearance_count": 1,
+          "time_info": "00时52分"
         },
         {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
           "url": "https://www.zhihu.com/question/2036152296388523178",
           "source": "知乎",
           "ranks": [
-            18
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时48分 ~ 23时48分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "北大教授秀谬论,尬吹西方保障",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354080&amp;topic_name=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E7%A7%80%E8%B0%AC%E8%AE%BA%2C%E5%B0%AC%E5%90%B9%E8%A5%BF%E6%96%B9%E4%BF%9D%E9%9A%9C",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时13分 ~ 12时24分]"
-        },
-        {
-          "title": "同济大学的一位院长，一位正高级教授，这么厉害的两位教师为什么还要论文造假？",
-          "url": "https://www.zhihu.com/question/2035985272542848579",
-          "source": "知乎",
-          "ranks": [
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时24分 ~ 15时09分]"
-        },
-        {
-          "title": "海归教授「一年填上百张表」，无奈雇助理专门对付报表，科研领域的形式主义该如何破解？",
-          "url": "https://www.zhihu.com/question/2036088424449451532",
-          "source": "知乎",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时24分 ~ 15时09分]"
+          "appearance_count": 1,
+          "time_info": "00时52分"
         }
       ]
     }

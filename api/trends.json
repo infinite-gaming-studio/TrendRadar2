@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T08:03:23.273594+08:00",
-  "total_titles_processed": 556,
+  "generated_at": "2026-05-09T12:24:42.515866+08:00",
+  "total_titles_processed": 786,
   "failed_sources": [],
   "trends": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "北大教授秀谬论,尬吹西方保障",
@@ -64,11 +64,34 @@
           "source": "贴吧",
           "ranks": [
             19,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时13分 ~ 08时03分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 12时24分]"
+        },
+        {
+          "title": "同济大学的一位院长，一位正高级教授，这么厉害的两位教师为什么还要论文造假？",
+          "url": "https://www.zhihu.com/question/2035985272542848579",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "海归教授「一年填上百张表」，无奈雇助理专门对付报表，科研领域的形式主义该如何破解？",
+          "url": "https://www.zhihu.com/question/2036088424449451532",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         }
       ]
     }

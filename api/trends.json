@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T16:51:38.469154+08:00",
-  "total_titles_processed": 942,
+  "generated_at": "2026-05-10T18:12:01.030952+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
@@ -60,6 +60,23 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时57分 ~ 10时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "東京大学 化学専攻 教授",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价浙大教授郑强称「大学生就业难这个概念我不承认，能不能少点抱怨少点索取，是享受的工作真的难找」？",
+          "url": "https://www.zhihu.com/question/2036770507610182128",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 18时12分]"
         }
       ]
     }

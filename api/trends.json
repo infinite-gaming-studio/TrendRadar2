@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T10:41:24.581692+08:00",
-  "total_titles_processed": 790,
+  "generated_at": "2026-05-12T14:13:01.959192+08:00",
+  "total_titles_processed": 970,
   "failed_sources": [],
   "trends": [
     {
@@ -72,8 +72,19 @@
     },
     {
       "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "哈佛教授：中美元首峰会最大成果或是避免局势升级",
+          "url": "https://news.ifeng.com/c/8t43s8azZuq",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时12分 ~ 14时13分]"
+        },
         {
           "title": "王皓喊梁靖崑梁教授",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9A%93%E5%96%8A%E6%A2%81%E9%9D%96%E5%B4%91%E6%A2%81%E6%95%99%E6%8E%88%23&t=31&band_rank=7&Refer=top",
@@ -81,7 +92,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
         }

@@ -1,33 +1,22 @@
 {
-  "generated_at": "2026-05-18T23:23:14.865349+08:00",
-  "total_titles_processed": 1326,
+  "generated_at": "2026-05-19T01:58:57.092230+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
       "titles": [
         {
-          "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
-          "url": "https://wallstreetcn.com/articles/3772335",
-          "source": "华尔街见闻",
+          "title": "法官驳回埃隆·马斯克对OpenAI及其CEO奥尔特曼的诉讼",
+          "url": "https://flash.jin10.com/detail/20260519013301611800",
+          "source": "金十数据",
           "ranks": [
-            3
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 07时56分]"
-        },
-        {
-          "title": "本周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
-          "url": "https://wallstreetcn.com/articles/3772335",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时56分 ~ 19时06分]"
+          "appearance_count": 1,
+          "time_info": "01时58分"
         }
       ]
     },
@@ -40,13 +29,11 @@
           "url": "https://www.zhihu.com/question/2039674845734985800",
           "source": "知乎",
           "ranks": [
-            10,
-            5,
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时55分 ~ 23时23分]"
+          "appearance_count": 1,
+          "time_info": "01时58分"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T12:58:17.996607+08:00",
-  "total_titles_processed": 870,
+  "generated_at": "2026-05-19T16:29:17.669304+08:00",
+  "total_titles_processed": 1044,
   "failed_sources": [],
   "trends": [
     {
@@ -99,7 +99,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "据华尔街日报：谷歌(GOOG.O)与黑石集团(BX.N)共同成立的人工智能云公司计划在2027年上线500兆瓦的算力容量。",
@@ -144,6 +144,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
+        },
+        {
+          "title": "九大看点梳理！谷歌I/O大会前瞻：“AI全栈霸主”能否再度惊艳华尔街？",
+          "url": "https://www.cls.cn/detail/2374982",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "周一（5月18日），美股人工智能（AI）赢家指数跌3.21%，报377.39点。 成分股Nebius集团收跌9.13%，摩丁制造MOD跌8.90%，Lumentum跌8.83%跌幅第三大，康宁公司、美光科技进入跌幅前十大，在收涨的七只成分股中，谷歌A、亚马逊涨幅最小，微软涨0.38%，Palantir涨0.86%，Arm控股涨2.85%。",

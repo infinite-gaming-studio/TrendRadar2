@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T03:50:11.843457+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-05-22T05:25:30.264030+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 03时50分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 05时25分]"
         },
         {
           "title": "OpenAI：AdventHealth正在部署Chatgpt以减轻行政负担，并优化其系统内的临床工作流程。",
@@ -36,7 +36,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
         }

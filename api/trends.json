@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-21T18:38:21.055978+08:00",
-  "total_titles_processed": 1151,
+  "generated_at": "2026-05-21T22:13:01.751973+08:00",
+  "total_titles_processed": 1332,
   "failed_sources": [],
   "trends": [
     {
@@ -91,8 +91,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
+          "url": "https://www.zhihu.com/question/2040738759281473391",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 22时13分]"
+        },
         {
           "title": "据The Information：白宫周二向Anthropic、OpenAI及其他公司简要介绍了一项自愿性的“模型发布前评估”计划。",
           "url": "https://flash.jin10.com/detail/20260521030904258800",
@@ -150,7 +161,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         }

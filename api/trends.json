@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T07:10:06.253346+08:00",
-  "total_titles_processed": 559,
+  "generated_at": "2026-05-21T10:57:23.229457+08:00",
+  "total_titles_processed": 762,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
@@ -75,6 +75,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时50分 ~ 07时10分]"
+        },
+        {
+          "title": "如何评价 Gemini 于 2026 年 5 月 17 日实行的新限额形式？",
+          "url": "https://www.zhihu.com/question/2040264998916712429",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         }
       ]
     },

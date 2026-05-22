@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T12:58:53.425643+08:00",
-  "total_titles_processed": 864,
+  "generated_at": "2026-05-22T16:24:04.475002+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
@@ -78,8 +78,19 @@
     },
     {
       "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "复旦大学副教授沈奕斐遭小学家长疯狂举报两个月，复旦认定其无违规行为，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2041138437982605533",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时24分]"
+        },
         {
           "title": "复旦教授沈奕斐遭家长疯狂举报两月",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E6%B2%88%E5%A5%95%E6%96%90%E9%81%AD%E5%AE%B6%E9%95%BF%E7%96%AF%E7%8B%82%E4%B8%BE%E6%8A%A5%E4%B8%A4%E6%9C%88%23&t=31&band_rank=12&Refer=top",
@@ -87,7 +98,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         }

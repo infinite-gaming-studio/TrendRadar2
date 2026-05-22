@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T16:24:04.475002+08:00",
-  "total_titles_processed": 1022,
+  "generated_at": "2026-05-22T19:44:10.792047+08:00",
+  "total_titles_processed": 1198,
   "failed_sources": [],
   "trends": [
     {
@@ -101,6 +101,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "苹果谷歌英伟达，集体松了口气",
+          "url": "https://news.ifeng.com/c/8tL3ZUXTPWj",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 19时44分]"
         }
       ]
     }

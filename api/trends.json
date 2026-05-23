@@ -1,95 +1,33 @@
 {
-  "generated_at": "2026-05-23T22:58:29.576275+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2026-05-24T00:03:46.950505+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "OpenAI称攻克80年数学难题",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%A7%B0%E6%94%BB%E5%85%8B80%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时37分 ~ 19时08分]"
-        },
         {
           "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
           "url": "https://wallstreetcn.com/articles/3772963",
           "source": "华尔街见闻",
           "ranks": [
-            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时18分 ~ 22时58分]"
+          "appearance_count": 1,
+          "time_info": "00时03分"
         },
         {
-          "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
-          "url": "https://flash.jin10.com/detail/20260523091339971800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "《最强大脑》的魏坤琳教授已经48岁了",
-          "url": "https://www.toutiao.com/trending/7642485722229981247/",
+          "title": "SpaceX抢跑 OpenAI追击",
+          "url": "https://www.toutiao.com/trending/7643095600006696499/",
           "source": "今日头条",
           "ranks": [
-            12,
-            13,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 08时04分]"
-        },
-        {
-          "title": "儿子在学校被打复旦教授是怎么处理的",
-          "url": "https://s.weibo.com/weibo?q=%E5%84%BF%E5%AD%90%E5%9C%A8%E5%AD%A6%E6%A0%A1%E8%A2%AB%E6%89%93%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E6%98%AF%E6%80%8E%E4%B9%88%E5%A4%84%E7%90%86%E7%9A%84&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "苹果谷歌英伟达，集体松了口气",
-          "url": "https://news.ifeng.com/c/8tL3ZUXTPWj",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 08时04分]"
+          "time_info": "00时03分"
         }
       ]
     }

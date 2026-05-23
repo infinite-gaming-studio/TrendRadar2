@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T15:29:42.663268+08:00",
-  "total_titles_processed": 892,
+  "generated_at": "2026-05-23T17:49:44.887769+08:00",
+  "total_titles_processed": 1023,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 15时29分]"
+          "appearance_count": 3,
+          "time_info": "[12时37分 ~ 17时49分]"
         },
         {
           "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
@@ -57,7 +58,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         }

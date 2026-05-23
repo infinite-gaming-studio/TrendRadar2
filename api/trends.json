@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T05:52:39.418711+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2026-05-24T06:50:33.262005+08:00",
+  "total_titles_processed": 510,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 06时50分]"
         },
         {
           "title": "SpaceX抢跑 OpenAI追击",

@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-05-27T23:32:26.900522+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2026-05-28T02:24:47.155862+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI在美国中期选举前部署网络安全及虚假信息防御措施。",
+          "url": "https://flash.jin10.com/detail/20260528013305878800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

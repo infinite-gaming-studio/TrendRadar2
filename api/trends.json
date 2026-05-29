@@ -1,134 +1,22 @@
 {
-  "generated_at": "2026-05-29T21:57:47.602714+08:00",
-  "total_titles_processed": 1295,
+  "generated_at": "2026-05-30T01:34:07.397294+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "OpenAI发布 OpenAI 的前沿治理框架。",
-          "url": "https://flash.jin10.com/detail/20260529002616429800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
         {
           "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
           "url": "https://wallstreetcn.com/articles/3773389",
           "source": "华尔街见闻",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时43分 ~ 21时57分]"
-        },
-        {
-          "title": "美光、SK海力士等入局！Anthropic新一轮融资后估值达9650亿美元，超越OpenAI",
-          "url": "https://wallstreetcn.com/livenews/3110889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时35分"
-        },
-        {
-          "title": "Anthropic新一轮融资后估值达9650亿美元 超过OpenAI",
-          "url": "https://flash.jin10.com/detail/20260529023507958800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时35分"
-        },
-        {
-          "title": "OpenAI启动生物防御计划",
-          "url": "https://flash.jin10.com/detail/20260529181828076800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "谷歌云：Nano Banana 2和Nano Banana Pro已正式上线。",
-          "url": "https://wallstreetcn.com/livenews/3110860",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "谷歌云：Nano Banana 2和Nano Banana Pro已正式上线。",
-          "url": "https://flash.jin10.com/detail/20260529001147406800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "据美国得克萨斯州车管局（DMV）网站：谷歌母公司Alphabet旗下Waymo已有577辆AVS、317辆Avride登记。 特斯拉有42辆车在美国得州被登记为无人驾驶出租车（Robotaxi）。",
-          "url": "https://wallstreetcn.com/livenews/3110968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "阿波罗推销360亿美元债务融资，旨在为Anthropic购买谷歌芯片",
-          "url": "https://wallstreetcn.com/livenews/3110939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价湖北理工学院天才少年熊羽诺副教授在北京大学进行的学术报告？",
-          "url": "https://www.zhihu.com/question/2042955028177082041",
-          "source": "知乎",
-          "ranks": [
-            2,
-            12
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时52分 ~ 03时35分]"
+          "time_info": "[01时33分 ~ 01时34分]"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T18:44:00.617821+08:00",
-  "total_titles_processed": 1104,
+  "generated_at": "2026-05-29T21:57:47.602714+08:00",
+  "total_titles_processed": 1295,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 18时44分]"
+          "appearance_count": 3,
+          "time_info": "[18时43分 ~ 21时57分]"
         },
         {
           "title": "美光、SK海力士等入局！Anthropic新一轮融资后估值达9650亿美元，超越OpenAI",
@@ -58,7 +58,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         }

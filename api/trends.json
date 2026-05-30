@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T08:06:58.425042+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-05-30T12:51:31.713820+08:00",
+  "total_titles_processed": 713,
   "failed_sources": [],
   "trends": [
     {
@@ -47,6 +47,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "東京大学 化学専攻 教授",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中戏教授、演员刘红梅病逝，曾饰演《水浒传》蒋门神娘子",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33264574",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         }
       ]
     }

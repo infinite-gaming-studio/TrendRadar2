@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T16:26:15.611339+08:00",
-  "total_titles_processed": 913,
+  "generated_at": "2026-06-02T20:39:25.155373+08:00",
+  "total_titles_processed": 1125,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时37分 ~ 16时26分]"
+          "appearance_count": 4,
+          "time_info": "[11时37分 ~ 20时39分]"
         },
         {
           "title": "谷歌(GOOG.O)美股盘后跌1.7%。",

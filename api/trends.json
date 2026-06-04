@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T11:40:04.151115+08:00",
-  "total_titles_processed": 720,
+  "generated_at": "2026-06-04T16:18:18.445719+08:00",
+  "total_titles_processed": 933,
   "failed_sources": [],
   "trends": [
     {
@@ -47,7 +47,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -56,11 +56,12 @@
           "url": "https://wallstreetcn.com/articles/3773814",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 11时40分]"
+          "appearance_count": 3,
+          "time_info": "[11时39分 ~ 16时18分]"
         },
         {
           "title": "谷歌(GOOG.O)在网站上推出Gemma 4 12B。",

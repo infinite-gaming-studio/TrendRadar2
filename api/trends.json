@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T16:51:57.404046+08:00",
-  "total_titles_processed": 855,
+  "generated_at": "2026-06-07T19:07:33.773820+08:00",
+  "total_titles_processed": 966,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             1,
             14,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时12分 ~ 16时51分]"
+          "appearance_count": 5,
+          "time_info": "[06时12分 ~ 19时07分]"
         },
         {
           "title": "OpenAI计划对ChatGPT进行发布以来最大规模改版",
@@ -39,22 +40,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 16时51分]"
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 19时07分]"
         },
         {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
           "url": "https://wallstreetcn.com/articles/3774032",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 19时07分]"
         },
         {
           "title": "OpenAI计划大幅升级ChatGPT 以创造更多收入",
@@ -82,7 +85,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "亮眼财报后股价大跌？博通CEO：永远不关心股价，死磕技术客户就不会跑，看好“博通-谷歌-Anthropic”铁三角",
@@ -95,8 +98,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时01分 ~ 16时51分]"
+          "appearance_count": 7,
+          "time_info": "[05时01分 ~ 19时07分]"
         },
         {
           "title": "合计700亿美元！SpaceX先后与Anthropic和谷歌签下大单，“算力租赁”ARR高达260亿美元",
@@ -112,23 +115,57 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时01分 ~ 16时51分]"
+        },
+        {
+          "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
+          "url": "https://wallstreetcn.com/articles/3774034",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         }
       ]
     },
     {
       "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "直播丨刚出炉！2026高考作文难不难？名校教授在线破译高分密码",
           "url": "https://m.thepaper.cn/newsDetail_forward_33299522",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 19时07分]"
+        },
+        {
+          "title": "华师教授解析今年高考作文得分关键",
+          "url": "https://www.toutiao.com/trending/7648310561301807146/",
+          "source": "今日头条",
+          "ranks": [
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时51分"
+          "time_info": "19时07分"
+        },
+        {
+          "title": "北大教授谈高考作文天津卷",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E8%B0%88%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E5%A4%A9%E6%B4%A5%E5%8D%B7%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         }
       ]
     }

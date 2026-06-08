@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T07:02:23.082616+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-06-08T11:38:10.243042+08:00",
+  "total_titles_processed": 771,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
@@ -25,17 +25,40 @@
           "url": "https://wallstreetcn.com/articles/3774032",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 07时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 11时38分]"
+        },
+        {
+          "title": "ChatGPT即将迎来大改造：告别单一聊天 变身“超级应用”",
+          "url": "https://www.cls.cn/detail/2392807",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 11时38分]"
+        },
+        {
+          "title": "ChatGPT将迎最大改版",
+          "url": "https://s.weibo.com/weibo?q=ChatGPT%E5%B0%86%E8%BF%8E%E6%9C%80%E5%A4%A7%E6%94%B9%E7%89%88&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 11时38分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
@@ -46,25 +69,48 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 07时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 11时38分]"
+        },
+        {
+          "title": "中外六大AI出战上海高考作文！《科创板日报》实测DeepSeek与谷歌Gemini夺魁",
+          "url": "https://www.cls.cn/detail/2392919",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 11时38分]"
         }
       ]
     },
     {
       "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "直播丨刚出炉！2026高考作文难不难？名校教授在线破译高分密码",
           "url": "https://m.thepaper.cn/newsDetail_forward_33299522",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时18分 ~ 07时02分]"
+          "appearance_count": 5,
+          "time_info": "[03时18分 ~ 11时38分]"
+        },
+        {
+          "title": "我的高考｜从高考失利到成为中文系教授，一个“理科生”的转向与抵达",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33327872",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 11时38分]"
         }
       ]
     }

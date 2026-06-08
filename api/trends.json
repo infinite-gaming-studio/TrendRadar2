@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T16:51:49.890516+08:00",
-  "total_titles_processed": 1010,
+  "generated_at": "2026-06-08T21:04:58.867874+08:00",
+  "total_titles_processed": 1221,
   "failed_sources": [],
   "trends": [
     {
@@ -78,11 +78,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时37分 ~ 16时51分]"
+          "appearance_count": 4,
+          "time_info": "[11时37分 ~ 21时04分]"
         },
         {
           "title": "美股大跌终于唤醒“恐慌指数”，沃顿商学院教授解读：仅是正常回调",
@@ -91,7 +92,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         }

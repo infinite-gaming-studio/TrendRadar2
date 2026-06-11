@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T00:52:23.986305+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-12T03:34:25.630912+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
@@ -65,8 +65,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 03时34分]"
         },
         {
           "title": "据CNBC：OpenAI将收购Ona，以增强其人工智能编程助手Codex的能力。",
@@ -90,11 +90,12 @@
           "url": "https://www.toutiao.com/trending/7649966573882294281/",
           "source": "今日头条",
           "ranks": [
-            22
+            22,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 03时34分]"
         }
       ]
     }

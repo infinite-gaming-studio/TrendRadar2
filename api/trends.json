@@ -1,41 +1,8 @@
 {
-  "generated_at": "2026-06-14T23:48:17.982068+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2026-06-15T01:18:31.553610+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
-          "url": "https://wallstreetcn.com/articles/3774577",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 11时39分]"
-        },
-        {
-          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
-          "url": "https://www.cls.cn/detail/2399163",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时38分 ~ 23时48分]"
-        }
-      ]
-    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
@@ -48,25 +15,25 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 23时48分]"
+          "appearance_count": 1,
+          "time_info": "01时18分"
         }
       ]
     },
     {
-      "keyword_group": "東京大学 化学専攻 教授",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "太原一女副教授因病去世 终年47岁",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AA%E5%8E%9F%E4%B8%80%E5%A5%B3%E5%89%AF%E6%95%99%E6%8E%88%E5%9B%A0%E7%97%85%E5%8E%BB%E4%B8%96+%E7%BB%88%E5%B9%B447%E5%B2%81",
-          "source": "百度热搜",
+          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
+          "url": "https://www.cls.cn/detail/2399163",
+          "source": "财联社热门",
           "ranks": [
-            14
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时28分"
+          "time_info": "01时18分"
         }
       ]
     }

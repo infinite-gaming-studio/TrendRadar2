@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T20:56:19.933084+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2026-06-18T00:38:01.906149+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
@@ -8,32 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "Kalshi因向谷歌、LinkedIn披露用户活动而被起诉。",
-          "url": "https://wallstreetcn.com/livenews/3120501",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "SpaceX期权首个交易日碾压纪录 ChatGPT市场份额跌破50% | 环球市场",
-          "url": "https://www.cls.cn/detail/2401773",
+          "title": "台积电产能告急！三星代工需求火热：谷歌、英伟达、AMD都来了…",
+          "url": "https://www.cls.cn/detail/2402553",
           "source": "财联社热门",
           "ranks": [
-            12
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时42分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 00时38分]"
         }
       ]
     }

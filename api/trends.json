@@ -1,54 +1,22 @@
 {
-  "generated_at": "2026-06-19T22:57:37.552776+08:00",
-  "total_titles_processed": 1259,
+  "generated_at": "2026-06-20T01:19:09.432320+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "Faker拍谷歌广告血赚7个亿",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355258&amp;topic_name=Faker%E6%8B%8D%E8%B0%B7%E6%AD%8C%E5%B9%BF%E5%91%8A%E8%A1%80%E8%B5%9A7%E4%B8%AA%E4%BA%BF",
           "source": "贴吧",
           "ranks": [
-            10,
-            12,
-            13,
-            19,
-            23
+            30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 22时57分]"
-        },
-        {
-          "title": "周四（6月18日），美股超大规模云服务商（Hyperscalers）涨1.39%，报95.20点。 成分股中，亚马逊收涨2.90%，Meta涨1.70%，谷歌A涨1.17%，甲骨文涨0.41%，微软涨0.13%。",
-          "url": "https://wallstreetcn.com/livenews/3121908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI：ChatGPT企业版管理员即日起可使用新的分析功能和更新的支出控制工具。",
-          "url": "https://flash.jin10.com/detail/20260619030734047800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 01时19分]"
         }
       ]
     }

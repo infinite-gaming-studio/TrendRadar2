@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T12:57:45.273458+08:00",
-  "total_titles_processed": 859,
+  "generated_at": "2026-06-23T16:29:38.393504+08:00",
+  "total_titles_processed": 1069,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://www.cls.cn/detail/2406155",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 16时29分]"
         },
         {
           "title": "谷歌母公司Alphabet收跌5%，此前该公司AI负责人Jumper离职。",

@@ -1,77 +1,22 @@
 {
-  "generated_at": "2026-06-28T23:16:20.971044+08:00",
-  "total_titles_processed": 1270,
+  "generated_at": "2026-06-29T01:06:04.869232+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
-          "url": "https://wallstreetcn.com/articles/3775650",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 07时59分]"
-        },
-        {
-          "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
-          "url": "https://wallstreetcn.com/articles/3775663",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 07时59分]"
-        },
-        {
-          "title": "海外研究员眼中的中国AI：智谱是“中国Palantir”，MiniMax对标Character AI，豆包是“中国ChatGPT”",
-          "url": "https://wallstreetcn.com/articles/3775673",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "算力告急：谷歌悄然对Meta实施Gemini使用上限",
           "url": "https://wallstreetcn.com/articles/3775694",
           "source": "华尔街见闻",
           "ranks": [
-            8,
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时29分 ~ 23时16分]"
-        },
-        {
-          "title": "因算力供不应求，谷歌限制Meta对Gemini AI模型的使用",
-          "url": "https://flash.jin10.com/detail/20260628133655032800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
+          "time_info": "[01时05分 ~ 01时06分]"
         }
       ]
     }

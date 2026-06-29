@@ -1,40 +1,11 @@
 {
-  "generated_at": "2026-06-29T22:46:16.064589+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2026-06-30T01:33:58.474413+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "算力告急：谷歌悄然对Meta实施Gemini使用上限",
-          "url": "https://wallstreetcn.com/articles/3775694",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时05分 ~ 13时28分]"
-        },
-        {
-          "title": "谷歌云将提供用于科学研究的专业AI模型",
-          "url": "https://flash.jin10.com/detail/20260629181622032800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时50分"
-        }
-      ]
-    },
-    {
       "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "日本教授：高市早苗缺乏作为首相的基本素质",
@@ -44,19 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时45分 ~ 22时46分]"
-        },
-        {
-          "title": "退休化学教授帮医药研发人员制毒",
-          "url": "https://s.weibo.com/weibo?q=%E9%80%80%E4%BC%91%E5%8C%96%E5%AD%A6%E6%95%99%E6%8E%88%E5%B8%AE%E5%8C%BB%E8%8D%AF%E7%A0%94%E5%8F%91%E4%BA%BA%E5%91%98%E5%88%B6%E6%AF%92&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时06分"
+          "time_info": "01时33分"
         }
       ]
     }

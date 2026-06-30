@@ -1,22 +1,45 @@
 {
-  "generated_at": "2026-06-30T16:28:32.680080+08:00",
-  "total_titles_processed": 1039,
+  "generated_at": "2026-06-30T19:43:52.465098+08:00",
+  "total_titles_processed": 1234,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
           "url": "https://wallstreetcn.com/articles/3775727",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时01分 ~ 16时28分]"
+          "appearance_count": 5,
+          "time_info": "[08时01分 ~ 19时43分]"
+        },
+        {
+          "title": "FactSet：公司将与谷歌云推出新的金融运营代理。",
+          "url": "https://flash.jin10.com/detail/20260630193124737800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
+          "title": "美国金融数据和分析服务提供商FactSet宣布与谷歌云建立合作关系。",
+          "url": "https://flash.jin10.com/detail/20260630193101223800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         },
         {
           "title": "晋升道指难掩AI焦虑：谷歌股价涨近5% 仍陷算力短缺困局",
@@ -25,7 +48,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -64,7 +87,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         }

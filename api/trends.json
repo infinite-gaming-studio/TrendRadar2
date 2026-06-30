@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T12:20:29.340586+08:00",
-  "total_titles_processed": 856,
+  "generated_at": "2026-06-30T16:28:32.680080+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时01分 ~ 12时20分]"
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 16时28分]"
+        },
+        {
+          "title": "晋升道指难掩AI焦虑：谷歌股价涨近5% 仍陷算力短缺困局",
+          "url": "https://www.cls.cn/detail/2412253",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "谷歌母公司支持旨在助推太空产业的金融科技公司",
@@ -28,6 +39,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "東京大学 化学専攻 教授",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "日本教授：高市早苗缺乏作为首相的基本素质",
+          "url": "https://news.ifeng.com/c/8uM3L9iDd7g",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时33分 ~ 08时02分]"
+        },
+        {
+          "title": "北航教授：学会利用人工智能报志愿",
+          "url": "https://www.toutiao.com/trending/7657073637762351146/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         }
       ]
     },
@@ -45,23 +84,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "日本教授：高市早苗缺乏作为首相的基本素质",
-          "url": "https://news.ifeng.com/c/8uM3L9iDd7g",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时33分 ~ 08时02分]"
         }
       ]
     }

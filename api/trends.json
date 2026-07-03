@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T14:28:46.053750+08:00",
-  "total_titles_processed": 939,
+  "generated_at": "2026-07-03T17:55:11.503277+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
@@ -72,7 +72,7 @@
     },
     {
       "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "清华教授举报蒋方舟论文造假",
@@ -81,9 +81,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
+        },
+        {
+          "title": "网友买二手相机发现哈工大教授老照片",
+          "url": "https://www.toutiao.com/trending/7658146946816688147/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 17时55分]"
         }
       ]
     }

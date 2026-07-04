@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T04:53:24.965552+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-07-05T05:56:42.789274+08:00",
+  "total_titles_processed": 434,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时56分]"
         },
         {
           "title": "媒体：清华大学教授肖鹰回应称“期待蒋方舟告我”",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时05分 ~ 04时53分]"
+          "appearance_count": 4,
+          "time_info": "[03时05分 ~ 05时56分]"
         }
       ]
     },

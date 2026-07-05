@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T15:35:23.294617+08:00",
-  "total_titles_processed": 847,
+  "generated_at": "2026-07-05T18:09:02.407991+08:00",
+  "total_titles_processed": 990,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3776218",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时35分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时35分 ~ 18时09分]"
         },
         {
           "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
@@ -36,17 +37,6 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "蒋方舟回应清华教授对其“论文造假”指控：请停止污蔑式举报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33517721",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 08时01分]"
-        },
-        {
           "title": "媒体：清华大学教授肖鹰回应称“期待蒋方舟告我”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33519408",
           "source": "澎湃新闻",
@@ -56,8 +46,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时05分 ~ 15时35分]"
+          "appearance_count": 11,
+          "time_info": "[03时05分 ~ 18时09分]"
+        },
+        {
+          "title": "蒋方舟回应清华教授对其“论文造假”指控：请停止污蔑式举报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33517721",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 08时01分]"
         }
       ]
     }

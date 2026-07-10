@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T16:20:02.612128+08:00",
-  "total_titles_processed": 1060,
+  "generated_at": "2026-07-10T19:48:48.771984+08:00",
+  "total_titles_processed": 1256,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时48分 ~ 16时20分]"
+          "appearance_count": 4,
+          "time_info": "[12时48分 ~ 19时48分]"
         },
         {
           "title": "如何看待 Codex 与 ChatGPT 合并，实际使用体验有什么变化？",

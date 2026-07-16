@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T05:12:45.346227+08:00",
-  "total_titles_processed": 538,
+  "generated_at": "2026-07-17T07:57:16.550190+08:00",
+  "total_titles_processed": 664,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 05时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 07时57分]"
         },
         {
           "title": "谷歌(GOOG.O)在美国上线搜索AI模式应用集成功能，支持与更多应用协同。",
@@ -137,7 +137,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
         },
@@ -167,7 +167,7 @@
     },
     {
       "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "沈音教授白丽萍夫妇意外离世",
@@ -179,8 +179,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 05时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 07时57分]"
+        },
+        {
+          "title": "沈音教授白丽萍夫妇离世系意外事故",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%9F%B3%E6%95%99%E6%8E%88%E7%99%BD%E4%B8%BD%E8%90%8D%E5%A4%AB%E5%A6%87%E7%A6%BB%E4%B8%96%E7%B3%BB%E6%84%8F%E5%A4%96%E4%BA%8B%E6%95%85%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时56分 ~ 07时57分]"
         },
         {
           "title": "43岁副教授50分钟完成长江横渡",

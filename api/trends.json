@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T18:44:27.939901+08:00",
-  "total_titles_processed": 1333,
+  "generated_at": "2026-07-17T20:07:11.272993+08:00",
+  "total_titles_processed": 1447,
   "failed_sources": [],
   "trends": [
     {
@@ -181,6 +181,20 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "沈阳音乐学院林大公、白丽萍教授夫妇，突发事故同时罹难",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33598748",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时39分 ~ 20时07分]"
+        },
+        {
           "title": "沈音教授白丽萍夫妇意外离世",
           "url": "https://www.toutiao.com/trending/7663017268122845238/",
           "source": "今日头条",
@@ -198,24 +212,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%B2%88%E9%98%B3%E9%9F%B3%E4%B9%90%E5%AD%A6%E9%99%A2%E6%95%99%E6%8E%88%E5%A4%AB%E5%A6%87%E7%AA%81%E5%8F%91%E4%BA%8B%E6%95%85%E7%BD%B9%E9%9A%BE",
           "source": "百度热搜",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
-        },
-        {
-          "title": "沈阳音乐学院林大公、白丽萍教授夫妇，突发事故同时罹难",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33598748",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8,
-            7
+            5,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时39分 ~ 18时44分]"
+          "time_info": "[18时44分 ~ 20时07分]"
         },
         {
           "title": "沈音教授白丽萍夫妇离世系意外事故",
@@ -266,11 +268,12 @@
           "ranks": [
             10,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时21分 ~ 18时44分]"
+          "appearance_count": 6,
+          "time_info": "[10时21分 ~ 20时07分]"
         },
         {
           "title": "何为AI泡沫？分析师：OpenAI就是“业界雷曼兄弟”，一倒全市场将崩盘！",
@@ -279,7 +282,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -290,7 +293,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T21:10:09.161715+08:00",
-  "total_titles_processed": 1410,
+  "generated_at": "2026-07-19T22:52:33.711528+08:00",
+  "total_titles_processed": 1522,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时49分 ~ 19时55分]"
+          "appearance_count": 6,
+          "time_info": "[13时49分 ~ 22时52分]"
         },
         {
           "title": "TCL华星星智X-Intelligence大模型在显示领域超越Gemini 3.1 Pro与GPT-5.5 high",
@@ -78,11 +79,12 @@
             16,
             18,
             19,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时54分 ~ 21时10分]"
+          "appearance_count": 17,
+          "time_info": "[00时54分 ~ 22时52分]"
         }
       ]
     }

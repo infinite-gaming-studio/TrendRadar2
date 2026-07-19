@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T07:51:30.027712+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-07-19T10:23:25.422609+08:00",
+  "total_titles_processed": 698,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,12 @@
           "url": "https://flash.jin10.com/detail/20260719055403527800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 07时51分]"
+          "appearance_count": 3,
+          "time_info": "[06时44分 ~ 10时23分]"
         }
       ]
     },
@@ -47,11 +48,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356289&amp;topic_name=%E5%8D%B0%E5%BA%A6%E6%B0%B4%E8%B4%A7%E6%95%99%E6%8E%88%E8%A2%AB%E9%94%A4%2C%E4%B8%AD%E5%9B%BD%E9%AB%98%E6%A0%A1%E8%B8%A9%E9%9B%B7",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 07时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 10时23分]"
         }
       ]
     }

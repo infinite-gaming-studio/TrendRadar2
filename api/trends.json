@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T13:47:26.605037+08:00",
-  "total_titles_processed": 943,
+  "generated_at": "2026-07-21T16:23:18.049103+08:00",
+  "total_titles_processed": 1108,
   "failed_sources": [],
   "trends": [
     {
@@ -35,11 +35,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时21分 ~ 13时47分]"
+          "appearance_count": 4,
+          "time_info": "[10时21分 ~ 16时23分]"
         }
       ]
     },
@@ -53,22 +54,24 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时21分 ~ 13时47分]"
+          "appearance_count": 4,
+          "time_info": "[10时21分 ~ 16时23分]"
         },
         {
           "title": "OpenAI负责人抨击Kimi开源",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 16时23分]"
         }
       ]
     },
@@ -81,11 +84,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33622414",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 16时23分]"
         }
       ]
     }

@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-24T16:21:48.471501+08:00",
-  "total_titles_processed": 1134,
+  "generated_at": "2026-07-24T19:02:13.193518+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
           "url": "https://www.zhihu.com/question/2063832242242184073",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 19时02分]"
         },
         {
           "title": "新晋菲尔兹奖得主当天宣布加入OpenAI",
@@ -29,6 +30,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时47分 ~ 16时21分]"
+        },
+        {
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
         },
         {
           "title": "OpenAI总裁布罗克曼表示，目标始终是为用户需要完成的一切任务提供最便宜模型。",
@@ -263,11 +275,12 @@
           "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%99%B9%E6%95%99%E6%8E%88%E5%9C%A8%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%BC%80%E8%AE%B2%E6%8C%82%E8%B0%B7%E7%8C%9C%E6%83%B3&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            2
+            2,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 19时02分]"
         },
         {
           "title": "王虹接终身教授邀请邮件以为是诈骗",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T19:02:13.193518+08:00",
-  "total_titles_processed": 1292,
+  "generated_at": "2026-07-24T20:25:20.222988+08:00",
+  "total_titles_processed": 1414,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时21分 ~ 19时02分]"
+          "appearance_count": 4,
+          "time_info": "[16时21分 ~ 20时25分]"
         },
         {
           "title": "新晋菲尔兹奖得主当天宣布加入OpenAI",
@@ -36,11 +37,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 20时25分]"
         },
         {
           "title": "OpenAI总裁布罗克曼表示，目标始终是为用户需要完成的一切任务提供最便宜模型。",
@@ -276,11 +278,12 @@
           "source": "微博",
           "ranks": [
             2,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时21分 ~ 19时02分]"
+          "appearance_count": 4,
+          "time_info": "[16时21分 ~ 20时25分]"
         },
         {
           "title": "王虹接终身教授邀请邮件以为是诈骗",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T18:37:16.516536+08:00",
-  "total_titles_processed": 1133,
+  "generated_at": "2026-07-25T20:02:20.633900+08:00",
+  "total_titles_processed": 1196,
   "failed_sources": [],
   "trends": [
     {
@@ -19,17 +19,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时34分 ~ 11时27分]"
-        },
-        {
-          "title": "消息称，OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
-          "url": "https://wallstreetcn.com/livenews/3139736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：希望美国在开源AI模型方面获胜，希望我们在闭源AI模型方面也能获胜。",
@@ -54,6 +43,18 @@
           "time_info": "00时34分"
         },
         {
+          "title": "消息称，OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
+          "url": "https://wallstreetcn.com/livenews/3139736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时37分 ~ 20时02分]"
+        },
+        {
           "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
           "url": "https://www.zhihu.com/question/2063832242242184073",
           "source": "知乎",
@@ -70,11 +71,12 @@
           "url": "https://flash.jin10.com/detail/20260725172016965800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时37分 ~ 20时02分]"
         },
         {
           "title": "Anthropic点评“OpenAI入侵事件”：各加公司需要“不断更新评估和安全系统",
@@ -116,7 +118,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         }
@@ -174,7 +176,7 @@
     },
     {
       "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "副教授被举报18年前高考移民，江苏师大：已处分，原就读高校撤销其本科学位但保留硕士博士学位",
@@ -183,11 +185,35 @@
           "ranks": [
             14,
             12,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时27分 ~ 18时37分]"
+          "appearance_count": 7,
+          "time_info": "[11时27分 ~ 20时02分]"
+        },
+        {
+          "title": "大学副教授被举报18年前“高考移民”",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E5%89%AF%E6%95%99%E6%8E%88%E8%A2%AB%E4%B8%BE%E6%8A%A518%E5%B9%B4%E5%89%8D%E2%80%9C%E9%AB%98%E8%80%83%E7%A7%BB%E6%B0%91%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时37分 ~ 20时02分]"
+        },
+        {
+          "title": "教授：流量不能成为限制竞争的手段",
+          "url": "https://www.toutiao.com/trending/7666391947935776795/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
           "title": "副教授被举报18年前高考移民",
@@ -199,17 +225,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
-        },
-        {
-          "title": "大学副教授被举报18年前“高考移民”",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E5%89%AF%E6%95%99%E6%8E%88%E8%A2%AB%E4%B8%BE%E6%8A%A518%E5%B9%B4%E5%89%8D%E2%80%9C%E9%AB%98%E8%80%83%E7%A7%BB%E6%B0%91%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
         }
       ]
     }

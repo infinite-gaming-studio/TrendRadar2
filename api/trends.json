@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-25T08:01:50.985687+08:00",
-  "total_titles_processed": 596,
+  "generated_at": "2026-07-25T11:27:27.064590+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 11时27分]"
+        },
         {
           "title": "OpenAI创始人奥尔特曼：希望美国在开源AI模型方面获胜，希望我们在闭源AI模型方面也能获胜。",
           "url": "https://flash.jin10.com/detail/20260725000422924800",
@@ -30,19 +43,6 @@
           "time_info": "00时34分"
         },
         {
-          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 08时01分]"
-        },
-        {
           "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
           "url": "https://www.zhihu.com/question/2063832242242184073",
           "source": "知乎",
@@ -64,6 +64,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "韩国总统李在明：我先后会见了Anthropic首席执行官Dario Amodei、OpenAI首席执行官Sam Altman、英伟达首席执行官黄仁勋以及博通首席执行官陈福阳，共同探讨了AI时代的合作与未来发展。",
+          "url": "https://flash.jin10.com/detail/20260725103555536800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         },
         {
           "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA和LUNA现已在亚马逊Bedrock上正式上线。",
@@ -125,6 +136,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "東京大学 化学専攻 教授",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "副教授被举报18年前高考移民，江苏师大：已处分，原就读高校撤销其本科学位但保留硕士博士学位",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33652226",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "副教授被举报18年前高考移民",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%89%AF%E6%95%99%E6%8E%88%E8%A2%AB%E4%B8%BE%E6%8A%A518%E5%B9%B4%E5%89%8D%E9%AB%98%E8%80%83%E7%A7%BB%E6%B0%91%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         }
       ]
     }

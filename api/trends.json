@@ -1,8 +1,37 @@
 {
-  "generated_at": "2026-07-26T04:46:34.109469+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-07-26T05:52:59.367162+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI Codex开发人员Thomas Ricouard：我让5.6 Sol稍微提升几何精度和材质细节，效果令人惊喜。这是一个完全在Blender中构建的场景，可以自由操控和漫游，而且它还能持续从中生成颇有格调的静态画面。",
+          "url": "https://flash.jin10.com/detail/20260726044659225800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
+        },
+        {
+          "title": "OpenAI Codex产品负责人Tibo：我们已经为所有Codex和ChatGPT Work用户重置了使用额度。昨夜凌晨2点至4点左右，我们遭遇了一次几乎全球范围的服务中断。目前所有服务均已恢复正常。",
+          "url": "https://flash.jin10.com/detail/20260726031905539800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时52分]"
+        }
+      ]
+    },
     {
       "keyword_group": "東京大学 化学専攻 教授",
       "match_count": 2,
@@ -15,8 +44,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 05时52分]"
         },
         {
           "title": "上海教授选育出彩色大闸蟹",
@@ -25,28 +54,12 @@
           "ranks": [
             21,
             14,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 04时46分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI Codex产品负责人Tibo：我们已经为所有Codex和ChatGPT Work用户重置了使用额度。昨夜凌晨2点至4点左右，我们遭遇了一次几乎全球范围的服务中断。目前所有服务均已恢复正常。",
-          "url": "https://flash.jin10.com/detail/20260726031905539800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时52分]"
         }
       ]
     }

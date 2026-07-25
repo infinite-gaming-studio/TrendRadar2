@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T20:02:20.633900+08:00",
-  "total_titles_processed": 1196,
+  "generated_at": "2026-07-25T21:55:38.597645+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
@@ -48,11 +48,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 20时02分]"
+          "appearance_count": 3,
+          "time_info": "[18时37分 ~ 21时55分]"
         },
         {
           "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
@@ -77,6 +78,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时37分 ~ 20时02分]"
+        },
+        {
+          "title": "ChatGPT崩了",
+          "url": "https://s.weibo.com/weibo?q=ChatGPT%E5%B4%A9%E4%BA%86&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时37分 ~ 21时55分]"
         },
         {
           "title": "Anthropic点评“OpenAI入侵事件”：各加公司需要“不断更新评估和安全系统",
@@ -110,17 +122,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
-        },
-        {
-          "title": "ChatGPT崩了",
-          "url": "https://s.weibo.com/weibo?q=ChatGPT%E5%B4%A9%E4%BA%86&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时37分"
         }
       ]
     },
@@ -198,11 +199,12 @@
           "source": "百度热搜",
           "ranks": [
             23,
-            4
+            4,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时37分 ~ 20时02分]"
+          "appearance_count": 4,
+          "time_info": "[18时37分 ~ 21时55分]"
         },
         {
           "title": "教授：流量不能成为限制竞争的手段",

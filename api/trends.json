@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T11:27:27.064590+08:00",
-  "total_titles_processed": 781,
+  "generated_at": "2026-07-25T14:14:13.594268+08:00",
+  "total_titles_processed": 918,
   "failed_sources": [],
   "trends": [
     {
@@ -72,7 +72,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -148,11 +148,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33652226",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 14时14分]"
         },
         {
           "title": "副教授被举报18年前高考移民",
@@ -161,7 +162,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         }

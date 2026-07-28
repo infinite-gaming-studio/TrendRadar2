@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-07-28T17:34:30.715763+08:00",
-  "total_titles_processed": 1205,
+  "generated_at": "2026-07-28T19:55:01.423828+08:00",
+  "total_titles_processed": 1367,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "東京大学 化学専攻 教授",
       "match_count": 6,
       "titles": [
+        {
+          "title": "言短意长｜不要给冒牌“大学教授”留一寸土壤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33667784",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时01分 ~ 19时55分]"
+        },
         {
           "title": "复旦教授起底假新闻套路",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E8%B5%B7%E5%BA%95%E5%81%87%E6%96%B0%E9%97%BB%E5%A5%97%E8%B7%AF",
@@ -34,17 +48,16 @@
           "time_info": "14时23分"
         },
         {
-          "title": "言短意长｜不要给冒牌“大学教授”留一寸土壤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33667784",
+          "title": "社会人士冒充名校教授被举报，涉事学院：并无这一教职人员",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33667771",
           "source": "澎湃新闻",
           "ranks": [
-            9,
-            6,
-            5
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时01分 ~ 17时34分]"
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 19时55分]"
         },
         {
           "title": "Anthropic 刚招了研究王阳明的哲学教授，你觉得其他 AI 公司会跟进吗？",
@@ -60,25 +73,13 @@
           "time_info": "[02时22分 ~ 06时04分]"
         },
         {
-          "title": "社会人士冒充名校教授被举报，涉事学院：并无这一教职人员",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33667771",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时18分 ~ 17时34分]"
-        },
-        {
           "title": "北大教授雷军为王虹写推荐信",
           "url": "https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E9%9B%B7%E5%86%9B%E4%B8%BA%E7%8E%8B%E8%99%B9%E5%86%99%E6%8E%A8%E8%8D%90%E4%BF%A1",
           "source": "百度热搜",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         }
@@ -115,6 +116,18 @@
           "time_info": "02时23分"
         },
         {
+          "title": "绑定SK集团与OpenAI！英伟达卷入7500亿美元豪赌，AI“循环融资”警报再响",
+          "url": "https://wallstreetcn.com/articles/3778049",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时34分 ~ 19时55分]"
+        },
+        {
           "title": "OpenAI的CEO Altman预计本周将在美国华盛顿特区会见财长贝森特与商务部长卢特尼克。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3140521",
           "source": "华尔街见闻-快讯",
@@ -124,17 +137,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
-        },
-        {
-          "title": "绑定SK集团与OpenAI！英伟达卷入7500亿美元豪赌，AI“循环融资”警报再响",
-          "url": "https://wallstreetcn.com/articles/3778049",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
         },
         {
           "title": "英伟达在OpenAI联合创始人伊利亚·苏茨克沃的安全超级智能项目中投资达数十亿美元。（The Information）",

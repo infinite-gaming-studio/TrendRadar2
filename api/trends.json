@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-07-28T11:18:24.222166+08:00",
-  "total_titles_processed": 858,
+  "generated_at": "2026-07-28T14:23:44.646401+08:00",
+  "total_titles_processed": 1021,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "東京大学 化学専攻 教授",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "复旦教授起底假新闻套路",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E8%B5%B7%E5%BA%95%E5%81%87%E6%96%B0%E9%97%BB%E5%A5%97%E8%B7%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            25,
+            10,
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 11时18分]"
+        },
+        {
+          "title": "北大教授雷军为王虹写推荐信",
+          "url": "https://s.weibo.com/weibo?q=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E9%9B%B7%E5%86%9B%E4%B8%BA%E7%8E%8B%E8%99%B9%E5%86%99%E6%8E%A8%E8%8D%90%E4%BF%A1&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
+          "title": "Anthropic 刚招了研究王阳明的哲学教授，你觉得其他 AI 公司会跟进吗？",
+          "url": "https://www.zhihu.com/question/2058547288499119870",
+          "source": "知乎",
+          "ranks": [
+            16,
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时22分 ~ 06时04分]"
+        },
+        {
+          "title": "言短意长｜不要给冒牌“大学教授”留一寸土壤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33667784",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时01分 ~ 14时23分]"
+        },
+        {
+          "title": "社会人士冒充名校教授被举报，涉事学院：并无这一教职人员",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33667771",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 14时23分]"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 4,
@@ -14,11 +83,12 @@
           "ranks": [
             13,
             15,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 11时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 14时23分]"
         },
         {
           "title": "英媒：英伟达押注OpenAI联合创始人的AI项目 投资50亿美元",
@@ -52,63 +122,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "复旦教授起底假新闻套路",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E8%B5%B7%E5%BA%95%E5%81%87%E6%96%B0%E9%97%BB%E5%A5%97%E8%B7%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            25,
-            10,
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 11时18分]"
-        },
-        {
-          "title": "Anthropic 刚招了研究王阳明的哲学教授，你觉得其他 AI 公司会跟进吗？",
-          "url": "https://www.zhihu.com/question/2058547288499119870",
-          "source": "知乎",
-          "ranks": [
-            16,
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时22分 ~ 06时04分]"
-        },
-        {
-          "title": "言短意长｜不要给冒牌“大学教授”留一寸土壤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33667784",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 11时18分]"
-        },
-        {
-          "title": "社会人士冒充名校教授被举报，涉事学院：并无这一教职人员",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33667771",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
         }
       ]
     }

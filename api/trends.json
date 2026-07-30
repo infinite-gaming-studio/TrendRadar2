@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T05:05:18.281571+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-07-31T07:03:07.295426+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2441076",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 05时05分]"
+          "appearance_count": 7,
+          "time_info": "[01时22分 ~ 07时03分]"
         },
         {
           "title": "OpenAI：将GPT-5.6Luna的价格下调80%",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T19:14:34.046413+08:00",
-  "total_titles_processed": 1248,
+  "generated_at": "2026-08-01T21:11:43.306847+08:00",
+  "total_titles_processed": 1374,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时01分 ~ 19时14分]"
+          "appearance_count": 7,
+          "time_info": "[08时01分 ~ 21时11分]"
         },
         {
           "title": "报道：OpenAI本周预览了AI模型Astra",

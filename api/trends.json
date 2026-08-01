@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T01:09:03.249240+08:00",
-  "total_titles_processed": 362,
+  "generated_at": "2026-08-02T03:04:28.158548+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 01时09分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 03时04分]"
         },
         {
           "title": "OpenAI 价格战",

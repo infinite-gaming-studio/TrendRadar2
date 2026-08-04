@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T20:59:23.154855+08:00",
-  "total_titles_processed": 1382,
+  "generated_at": "2026-08-04T23:26:38.503018+08:00",
+  "total_titles_processed": 1528,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             13,
             17,
             21,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 20时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 23时26分]"
         },
         {
           "title": "声明显示：美国众议院网络安全小组要求OpenAI首席执行官奥尔特曼就Hugging Face入侵事件进行情况通报。",
@@ -106,6 +107,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "東京大学 化学専攻 教授",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "哈佛教授谈奥德赛真正作者",
+          "url": "https://search.bilibili.com/all?keyword=%E5%93%88%E4%BD%9B%E6%95%99%E6%8E%88%E8%B0%88%E5%A5%A5%E5%BE%B7%E8%B5%9B%E7%9C%9F%E6%AD%A3%E4%BD%9C%E8%80%85",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         }
       ]
     }

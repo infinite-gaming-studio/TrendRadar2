@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T01:43:51.187064+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-05T03:27:21.801934+08:00",
+  "total_titles_processed": 371,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时27分]"
         },
         {
           "title": "苹果公司请求法官即刻禁止OpenAI使用其商业秘密",
@@ -43,8 +43,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 03时27分]"
         }
       ]
     }

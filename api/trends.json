@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T15:36:09.453705+08:00",
-  "total_titles_processed": 1041,
+  "generated_at": "2026-08-04T18:34:45.667210+08:00",
+  "total_titles_processed": 1216,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             7,
             9,
             13,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 15时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 18时34分]"
         },
         {
           "title": "声明显示：美国众议院网络安全小组要求OpenAI首席执行官奥尔特曼就Hugging Face入侵事件进行情况通报。",

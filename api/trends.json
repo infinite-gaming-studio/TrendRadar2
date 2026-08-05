@@ -1,106 +1,116 @@
 {
-  "generated_at": "2026-08-05T22:05:28.804835+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2026-08-06T00:30:15.815302+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 8,
       "titles": [
         {
-          "title": "OpenAI降价,老日高喊中国万岁",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
-          "source": "贴吧",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 08时10分]"
-        },
-        {
-          "title": "OpenAI：第三方网络评估涉及本公司的诸多模型。",
-          "url": "https://wallstreetcn.com/livenews/3144962",
-          "source": "华尔街见闻-快讯",
+          "title": "谷歌对AI领导层进行重大调整 AI负责人卸任主要管理职务",
+          "url": "https://flash.jin10.com/detail/20260806001438716800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时08分"
+          "time_info": "00时30分"
         },
         {
-          "title": "苹果状告OpenAI，反遭嘲讽：律师连邮件都发不对",
-          "url": "https://news.ifeng.com/c/8vKzM4B96pz",
-          "source": "凤凰网",
+          "title": "谷歌A跌超5%，谷歌DeepMind负责人哈萨比斯转任主席，公司进行重大人事调整",
+          "url": "https://wallstreetcn.com/livenews/3145508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时30分"
+        },
+        {
+          "title": "谷歌AI核心人物Jeff Dean离职 创办AI初创公司",
+          "url": "https://flash.jin10.com/detail/20260806000533011800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时30分"
+        },
+        {
+          "title": "谷歌(GOOG.O)跌幅扩大至逾3%，公司宣布对DeepMind进行领导层重组，谷歌DeepMind负责人Demis Hassabis将卸任首席执行官职务，出任Alphabet首席科学家兼谷歌DeepMind董事长。谷歌DeepMind首席技术官Koray Kavukcuoglu将出任新部门负责人。",
+          "url": "https://flash.jin10.com/detail/20260806000420661800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时30分"
+        },
+        {
+          "title": "谷歌(GOOG.O)短线下挫，现跌1.4%。",
+          "url": "https://flash.jin10.com/detail/20260806000120042800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时57分 ~ 17时35分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时30分"
         },
+        {
+          "title": "谷歌(GOOG.O)首席科学家在任27年后离职，将创办自己的人工智能公司。",
+          "url": "https://flash.jin10.com/detail/20260806000026602800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时30分"
+        },
+        {
+          "title": "据华尔街日报，谷歌公司首席科学家Jeff Dean离职，将创办自己的AI公司。 谷歌母公司Alphabet/谷歌A（GOOGL）跌幅扩大之1.5%，刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3145502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时30分"
+        },
+        {
+          "title": "Demis Hassabis辞去谷歌公司Deepmind首席执行官（CEO）职务，将担任主席。 谷歌母公司Alphabet任命Koray Kavukcouglu为Deepmind的高级副总裁（SVP）。",
+          "url": "https://wallstreetcn.com/livenews/3145501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
         {
           "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
           "url": "https://www.zhihu.com/question/2068265537105302957",
           "source": "知乎",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "英国机构报告AI安全事件 涉Anthropic和OpenAI模型",
-          "url": "https://flash.jin10.com/detail/20260805052416082800",
-          "source": "金十数据",
-          "ranks": [
-            20
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时00分"
-        },
-        {
-          "title": "OpenAI模型在第三方网络测试中突破安全边界",
-          "url": "https://wallstreetcn.com/livenews/3144962",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时00分"
-        },
-        {
-          "title": "苹果公司请求法官即刻禁止OpenAI使用其商业秘密",
-          "url": "https://wallstreetcn.com/livenews/3144861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "哈佛教授谈奥德赛真正作者",
-          "url": "https://search.bilibili.com/all?keyword=%E5%93%88%E4%BD%9B%E6%95%99%E6%8E%88%E8%B0%88%E5%A5%A5%E5%BE%B7%E8%B5%9B%E7%9C%9F%E6%AD%A3%E4%BD%9C%E8%80%85",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 08时10分]"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 00时30分]"
         }
       ]
     }

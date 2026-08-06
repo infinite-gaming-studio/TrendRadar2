@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T07:58:09.870421+08:00",
-  "total_titles_processed": 648,
+  "generated_at": "2026-08-06T10:30:43.943274+08:00",
+  "total_titles_processed": 809,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "谷歌对AI领导层进行重大调整 AI负责人卸任主要管理职务",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时30分 ~ 02时19分]"
+        },
+        {
+          "title": "谷歌首席科学家Jeff Dean离职创业",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E9%A6%96%E5%B8%AD%E7%A7%91%E5%AD%A6%E5%AE%B6Jeff+Dean%E7%A6%BB%E8%81%8C%E5%88%9B%E4%B8%9A",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 10时30分]"
         },
         {
           "title": "周三（8月5日），美国科技股七巨头（Magnificent 7）指数跌0.28%，报226.01点，美股早盘高开低走，北京时间21:33刷新日高至229.56点、00:12刷新日低至225.05点，之后持稳于226点附近。成分股中，谷歌A收跌4.03%——在标普500指数所有成分股里跌幅靠前，特斯拉、亚马逊、微软至多跌1.77%，Meta、苹果至多收涨0.52%，英伟达涨3.43%。 “超大”市值科技股指数跌1.19%，报444.40点。成分股中，除了前述个股之外，AMD收跌7.04%，高通跌3.16%，甲骨文跌0.93%，博通、Adobe、奈飞至多收涨0.86%，Salesforce涨1.04%。",
@@ -133,7 +144,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
@@ -182,13 +193,24 @@
           "time_info": "04时24分"
         },
         {
+          "title": "OpenAI披露AI模型曾暗中交流数月，最终决定攻击Hugging Face",
+          "url": "https://flash.jin10.com/detail/20260806095507573800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时30分"
+        },
+        {
           "title": "报道：继OpenAI、Anthropic之后，Meta的AI模型也入侵其他公司的系统",
           "url": "https://wallstreetcn.com/livenews/3145632",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         }
@@ -196,18 +218,30 @@
     },
     {
       "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "人大教授被曝主持国家社科基金重点项目，6 年花 35 万考证莫言家世，研究有意义吗？纳税人的钱该不该这样花？",
           "url": "https://www.zhihu.com/question/2068364859402450214",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 10时30分]"
+        },
+        {
+          "title": "38岁山东财大教授刘海明逝世",
+          "url": "https://www.toutiao.com/trending/7670684604130525222/",
+          "source": "今日头条",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
+          "time_info": "[10时29分 ~ 10时30分]"
         }
       ]
     }

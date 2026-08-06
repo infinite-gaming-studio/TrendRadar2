@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T19:20:57.367025+08:00",
-  "total_titles_processed": 1360,
+  "generated_at": "2026-08-06T21:58:17.543467+08:00",
+  "total_titles_processed": 1524,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "谷歌对AI领导层进行重大调整 AI负责人卸任主要管理职务",
@@ -150,12 +150,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "谷歌 AI 领军人物杰夫・迪恩等离职创业，这预示着 AI 行业哪些新趋势？",
+          "url": "https://www.zhihu.com/question/2068498722300990537",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
@@ -191,6 +202,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        },
+        {
+          "title": "怎么看 OpenAI 工程师说「现在大多数大型实验室成员几乎不看论文，因为大部分都是欺诈」？",
+          "url": "https://www.zhihu.com/question/2068662948407546390",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "Meta推出首款AI编程智能体，正面挑战Anthropic与OpenAI",
@@ -229,7 +251,7 @@
     },
     {
       "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "人大教授被曝主持国家社科基金重点项目，6 年花 35 万考证莫言家世，研究有意义吗？纳税人的钱该不该这样花？",
@@ -251,11 +273,12 @@
           "ranks": [
             19,
             20,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时45分 ~ 19时20分]"
+          "appearance_count": 4,
+          "time_info": "[13时45分 ~ 21时58分]"
         },
         {
           "title": "为什么只有僵王博士，没有僵王硕士或者僵王教授?",
@@ -263,11 +286,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 19时20分]"
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 21时58分]"
         },
         {
           "title": "38岁山东财大教授刘海明逝世",
@@ -290,6 +314,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
+        },
+        {
+          "title": "南大数院喻良教授确已卸任院长",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%97%E5%A4%A7%E6%95%B0%E9%99%A2%E5%96%BB%E8%89%AF%E6%95%99%E6%8E%88%E7%A1%AE%E5%B7%B2%E5%8D%B8%E4%BB%BB%E9%99%A2%E9%95%BF&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         }
       ]
     }

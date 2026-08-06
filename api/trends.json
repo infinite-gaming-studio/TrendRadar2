@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T13:45:48.314723+08:00",
-  "total_titles_processed": 996,
+  "generated_at": "2026-08-06T16:29:51.659795+08:00",
+  "total_titles_processed": 1175,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "谷歌对AI领导层进行重大调整 AI负责人卸任主要管理职务",
@@ -139,6 +139,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "谷歌将在华盛顿地区裁员52人，于2026年9月6日生效。",
+          "url": "https://flash.jin10.com/detail/20260806161117591800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         }
       ]
     },
@@ -218,7 +229,7 @@
     },
     {
       "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "人大教授被曝主持国家社科基金重点项目，6 年花 35 万考证莫言家世，研究有意义吗？纳税人的钱该不该这样花？",
@@ -226,11 +237,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时57分 ~ 13时45分]"
+          "appearance_count": 6,
+          "time_info": "[07时57分 ~ 16时29分]"
         },
         {
           "title": "38岁山东财大教授刘海明逝世",
@@ -244,26 +256,38 @@
           "time_info": "[10时29分 ~ 10时30分]"
         },
         {
+          "title": "金融学者、山东财大教授刘海明逝世，终年38岁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33727611",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 16时29分]"
+        },
+        {
           "title": "山东财大教授刘海明逝世 终年38岁",
           "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E8%B4%A2%E5%A4%A7%E6%95%99%E6%8E%88%E5%88%98%E6%B5%B7%E6%98%8E%E9%80%9D%E4%B8%96+%E7%BB%88%E5%B9%B438%E5%B2%81",
           "source": "百度热搜",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
         {
-          "title": "金融学者、山东财大教授刘海明逝世，终年38岁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33727611",
-          "source": "澎湃新闻",
+          "title": "为什么只有僵王博士，没有僵王硕士或者僵王教授?",
+          "url": "https://www.zhihu.com/question/2012118438093537977",
+          "source": "知乎",
           "ranks": [
-            19
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时45分"
+          "time_info": "16时29分"
         }
       ]
     }

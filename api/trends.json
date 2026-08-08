@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T13:40:52.484439+08:00",
-  "total_titles_processed": 963,
+  "generated_at": "2026-08-08T14:44:21.898968+08:00",
+  "total_titles_processed": 1008,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             1,
             8,
             18,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时31分 ~ 13时40分]"
+          "appearance_count": 6,
+          "time_info": "[07时31分 ~ 14时44分]"
         },
         {
           "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
@@ -63,8 +64,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 13时40分]"
+          "appearance_count": 14,
+          "time_info": "[00时51分 ~ 14时44分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",

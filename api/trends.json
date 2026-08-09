@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T11:39:04.128788+08:00",
-  "total_titles_processed": 700,
+  "generated_at": "2026-08-09T13:01:49.528734+08:00",
+  "total_titles_processed": 780,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 11时39分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 13时01分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
@@ -36,6 +36,34 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时28分 ~ 09时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "東京大学 化学専攻 教授",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中日关系真实处境如何？清华教授：出现结构性变化",
+          "url": "https://v.ifeng.com/c/8vQjVtLnoaV",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时38分 ~ 13时01分]"
+        },
+        {
+          "title": "英国剑桥版学术打假：明星教授卷入造假风波，论文被指抄袭超180处",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33744143",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         }
       ]
     },
@@ -58,23 +86,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时28分 ~ 11时39分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "東京大学 化学専攻 教授",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中日关系真实处境如何？清华教授：出现结构性变化",
-          "url": "https://v.ifeng.com/c/8vQjVtLnoaV",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 11时39分]"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T14:11:50.168833+08:00",
-  "total_titles_processed": 1130,
+  "generated_at": "2026-08-14T17:57:42.922181+08:00",
+  "total_titles_processed": 1337,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "OpenAI：GPT-5.6 Sol超高速模式（UltraFast Mode）已向部分客户群体开放有限预览。",
@@ -42,6 +42,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 01时55分]"
+        },
+        {
+          "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
+          "url": "https://news.ifeng.com/c/8vaHkh2o1IS",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "据Axios：OpenAI在IPO前进行高管更换。",
+          "url": "https://flash.jin10.com/detail/20260814173053117800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
         },
         {
           "title": "据悉OpenAI年化营收突破400亿美元",

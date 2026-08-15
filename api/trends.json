@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T06:17:59.184241+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-16T07:17:23.437272+08:00",
+  "total_titles_processed": 341,
   "failed_sources": [],
   "trends": [
     {
@@ -12,33 +12,36 @@
           "url": "https://www.cls.cn/detail/2455147",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时17分"
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时17分]"
         },
         {
           "title": "OpenAI Codex产品负责人：让Sol为你管理一支高效的Luna代理团队。这些模型彼此非常熟悉，能够通力合作，以惊人的速度和效率达成目标。",
           "url": "https://flash.jin10.com/detail/20260816043254635800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时17分"
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时17分]"
         },
         {
           "title": "据TheInformation：英伟达(NVDA.O)正在洽谈向SB Energy投资30亿美元，作为OpenAI数据中心交易的一部分。",
           "url": "https://flash.jin10.com/detail/20260816031526828800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时17分"
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时17分]"
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T14:46:06.118863+08:00",
-  "total_titles_processed": 987,
+  "generated_at": "2026-08-17T15:49:59.647956+08:00",
+  "total_titles_processed": 1093,
   "failed_sources": [],
   "trends": [
     {
@@ -63,8 +63,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时37分 ~ 14时46分]"
+          "appearance_count": 4,
+          "time_info": "[12时37分 ~ 15时49分]"
         },
         {
           "title": "OpenAI CEO：大学读两年就够了",
@@ -74,8 +74,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时45分 ~ 14时46分]"
+          "appearance_count": 3,
+          "time_info": "[14时45分 ~ 15时49分]"
         },
         {
           "title": "OpenAI 人事地震",
@@ -116,8 +116,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时56分 ~ 14时46分]"
+          "appearance_count": 7,
+          "time_info": "[10时56分 ~ 15时49分]"
         },
         {
           "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",

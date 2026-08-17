@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T15:49:59.647956+08:00",
-  "total_titles_processed": 1093,
+  "generated_at": "2026-08-17T16:38:44.937271+08:00",
+  "total_titles_processed": 1200,
   "failed_sources": [],
   "trends": [
     {
@@ -60,22 +60,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时37分 ~ 15时49分]"
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 16时38分]"
         },
         {
           "title": "OpenAI CEO：大学读两年就够了",
           "url": "https://www.baidu.com/s?wd=OpenAI+CEO%EF%BC%9A%E5%A4%A7%E5%AD%A6%E8%AF%BB%E4%B8%A4%E5%B9%B4%E5%B0%B1%E5%A4%9F%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时45分 ~ 15时49分]"
+          "appearance_count": 4,
+          "time_info": "[14时45分 ~ 16时38分]"
         },
         {
           "title": "OpenAI 人事地震",
